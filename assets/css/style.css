@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 260px;
+  height: 100%;
+  background: #f4f4f4;
+  padding: 20px;
+  border-right: 1px solid #ddd;
+}
+
+.sidebar h2, .sidebar h3, .sidebar h4 {
+  margin: 5px 0;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: #0366d6;
+  font-weight: bold;
+}
+
+.sidebar a:hover {
+  text-decoration: underline;
+}
+
+.profile-pic {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.content {
+  margin-left: 300px;
+  padding: 40px;
+  max-width: 900px;
+}
