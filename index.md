@@ -1,10 +1,12 @@
 ---
 layout: default
-title: "Mario Jerez – Deep Learning Researcher"
+title: "Portfolio – Mario Jerez"
 ---
 
 # 🧠 About Me
+
 I am a PhD candidate in Artificial Intelligence working on computer vision, generative models, multimodal learning, 3D human modeling, and Optimal Transport.
+
 
 ---
 
