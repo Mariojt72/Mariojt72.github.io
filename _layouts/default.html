@@ -9,22 +9,25 @@
 <body>
 
 <div class="sidebar">
-  <img src="/assets/profile.jpg" class="profile-pic">
+  
+  <!-- OPTIONAL PHOTO -->
+  <!-- Upload your photo as /assets/profile.jpg -->
+  <!-- <img src="/assets/profile.jpg" class="profile-pic"> -->
 
   <h2>Mario Jerez</h2>
-  <h3>Deep Learning Researcher</h3>
-  <h4>PhD Candidate in AI</h4>
+  <p class="tagline">Deep Learning Researcher<br>PhD Candidate in AI</p>
 
-  <hr>
+  <div class="sidebar-links">
+    <a href="/">🏠 Home</a>
+    <a href="https://github.com/mariojt72">💻 GitHub</a>
+    <a href="https://linkedin.com/in/mariojerez">🔗 LinkedIn</a>
+    <a href="/CV_MarioJerez.pdf">📄 Download CV</a>
+  </div>
 
-  <p><a href="https://mariojt72.github.io">🏠 Home</a></p>
-  <p><a href="https://github.com/mariojt72">💻 GitHub</a></p>
-  <p><a href="https://linkedin.com/in/mariojerez">🔗 LinkedIn</a></p>
-  <p><a href="/CV_MarioJerez.pdf">📄 Download CV</a></p>
+  <footer>
+    © {{ site.time | date: '%Y' }} Mario Jerez
+  </footer>
 
-  <hr>
-
-  <p style="font-size: 12px;">© 2025 Mario Jerez</p>
 </div>
 
 <div class="content">
