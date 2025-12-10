@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+
+<body>
+
+<div class="sidebar">
+  <img src="/assets/profile.jpg" class="profile-pic">
+
+  <h2>Mario Jerez</h2>
+  <h3>Deep Learning Researcher</h3>
+  <h4>PhD Candidate in AI</h4>
+
+  <hr>
+
+  <p><a href="https://mariojt72.github.io">🏠 Home</a></p>
+  <p><a href="https://github.com/mariojt72">💻 GitHub</a></p>
+  <p><a href="https://linkedin.com/in/mariojerez">🔗 LinkedIn</a></p>
+  <p><a href="/CV_MarioJerez.pdf">📄 Download CV</a></p>
+
+  <hr>
+
+  <p style="font-size: 12px;">© 2025 Mario Jerez</p>
+</div>
+
+<div class="content">
+  {{ content }}
+</div>
+
+</body>
+</html>
