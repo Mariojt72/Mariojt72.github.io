@@ -26,36 +26,45 @@ I work in applied AI for **nutrition, human body modeling, and marine biology**,
 
 # 📄 Publications
 
-### **2026**
-#### **Comparative Study of Deep Learning Approaches for Fish Origin Classification**  
+## Publications by Year
+
+<details open>
+<summary><strong>2026</strong></summary>
+
+### 📘 Comparative Study of Deep Learning Approaches for Fish Origin Classification  
 *Book chapter*  
-DOI: **10.1007/978-3-032-02725-2_6**  
-**Contributors:** Mario Jerez-Tallón; Ismael Beviá-Ballesteros; Nahuel Garcia-D’Urso; Kilian Toledo-Guedes; Jorge Azorín-López; Andrés Fuster-Guilló  
+DOI: 10.1007/978-3-032-02725-2_6  
+Authors: Mario Jerez-Tallón et al.
 
----
+</details>
 
-### **2025**
-#### **Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge**  
-*Machine Learning and Knowledge Extraction – Journal Article*  
-DOI: **10.3390/make7040146**  
-**Contributors:** Ismael Beviá-Ballesteros; Mario Jerez-Tallón; Nieves Aranda-Garrido; Marcelo Saval-Calvo; Isabel Abel-Abellán; Andrés Fuster-Guilló  
+<details>
+<summary><strong>2025</strong></summary>
 
-#### **Deep Learning Approaches for Wild vs Farmed Fish Classification**  
+### 🦈 Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge  
+*Journal Article (MAKE)*  
+DOI: 10.3390/make7040146  
+Authors: Ismael Beviá-Ballesteros; Mario Jerez-Tallón et al.
+
+### 🐟 Deep Learning Approaches for Wild vs Farmed Fish Classification  
 *Conference: SARTECO 2025*  
-**Author:** Mario Jerez-Tallón  
+Author: Mario Jerez-Tallón  
 
----
+</details>
 
-### **2024**
-#### **3D Reconstruction of the Human Body from Partial Scans Using Parametric Models**  
+<details>
+<summary><strong>2024</strong></summary>
+
+### 🧍‍♂️ 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models  
 *Book chapter*  
-DOI: **10.1007/978-3-031-77571-0_30**  
-**Contributors:** Juan Muelledes; Nahuel Garcia-D’Urso; Mario Jerez-Tallón; Andrés Fuster-Guilló; Jorge Azorín-Lopez  
+DOI: 10.1007/978-3-031-77571-0_30  
 
-#### **Automatic Identification of Fish Species and Their Farmed or Wild Origin by Computer Vision and Deep Learning**  
+### 🐠 Automatic Identification of Fish Species and Their Farmed or Wild Origin  
 *Book chapter*  
-DOI: **10.1007/978-3-031-77571-0_75**  
-**Contributors:** Mario Jerez-Tallón; Nahuel Garcia-D’Urso; Pau Climent-Pérez; Kilian Toledo-Guedes; Jorge Azorín-López; Andrés Fuster-Guilló  
+DOI: 10.1007/978-3-031-77571-0_75  
+
+</details>
+
 
 ---
 
