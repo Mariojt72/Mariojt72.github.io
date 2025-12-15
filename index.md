@@ -151,28 +151,28 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 <div class="skill ai">
   <span class="skill-name">Foundation & Vision-Language Models (CLIP, VLMs)</span>
   <div class="skill-bar">
-    <div class="skill-level" style="width: 75%"></div>
+    <div class="skill-level" style="width: 65%"></div>
   </div>
 </div>
 
 <div class="skill ai">
   <span class="skill-name">Generative Models (VAE, CVAE, Diffusion)</span>
   <div class="skill-bar">
-    <div class="skill-level" style="width: 70%"></div>
+    <div class="skill-level" style="width: 75%"></div>
   </div>
 </div>
 
 <div class="skill ai">
   <span class="skill-name">Optimal Transport (Sinkhorn, OT-Regularized Models)</span>
   <div class="skill-bar">
-    <div class="skill-level" style="width: 80%"></div>
+    <div class="skill-level" style="width: 85%"></div>
   </div>
 </div>
 
 <div class="skill ai">
   <span class="skill-name">Explainable AI (XAI)</span>
   <div class="skill-bar">
-    <div class="skill-level" style="width: 70%"></div>
+    <div class="skill-level" style="width: 80%"></div>
   </div>
 </div>
 
@@ -183,14 +183,14 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 <div class="skill cv">
   <span class="skill-name">Docker & Containerized Deployment</span>
   <div class="skill-bar">
-    <div class="skill-level" style="width: 85%"></div>
+    <div class="skill-level" style="width: 65%"></div>
   </div>
 </div>
 
 <div class="skill cv">
   <span class="skill-name">Cloud & Distributed Training (Azure, NVFlare)</span>
   <div class="skill-bar">
-    <div class="skill-level" style="width: 70%"></div>
+    <div class="skill-level" style="width: 55%"></div>
   </div>
 </div>
 
