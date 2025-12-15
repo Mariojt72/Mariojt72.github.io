@@ -115,13 +115,13 @@ body {
 
 /* SKILLS --------------------------------------------------------- */
 .skill {
-  margin-bottom: 14px;
+  margin-bottom: 16px;
 }
 
 .skill-name {
   display: block;
   font-size: 14px;
-  margin-bottom: 4px;
+  margin-bottom: 6px;
   color: #1f2937;
 }
 
@@ -133,10 +133,25 @@ body {
   overflow: hidden;
 }
 
+/* Animated level */
 .skill-level {
   height: 100%;
-  background-color: #3b82f6; /* azul académico */
   border-radius: 4px;
+  transition: width 1s ease-in-out;
 }
+
+/* Category colors */
+.ai .skill-level {
+  background-color: #6366f1; /* indigo */
+}
+
+.cv .skill-level {
+  background-color: #10b981; /* emerald */
+}
+
+.eng .skill-level {
+  background-color: #f59e0b; /* amber */
+}
+
 
 
