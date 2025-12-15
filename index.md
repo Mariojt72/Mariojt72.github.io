@@ -5,12 +5,42 @@ title: "Portfolio – Mario Jerez"
 
 <div class="about-header">
   <h1>🧠 About Me</h1>
-  <p class="about-tagline">
-    I am a **PhD researcher in Artificial Intelligence** at the [University of Alicante](https://www.ua.es/en/index.html), supervised by **Dr. [Nahuel García D'Urso](https://cvnet.cpd.ua.es/curriculum-breve/es/garcia-d-urso-nahuel-emiliano/108306)** and co-supervised by **Prof. [Andres Fuster Guillo](https://cvnet.cpd.ua.es/curriculum-breve/en/fuster-guillo-andres/10095)** and **Prof. [Jorge Azorin Lopez](https://cvnet.cpd.ua.es/curriculum-breve/en/azorin-lopez-jorge/9826)**.
 
-    I hold an **MSc in Artificial Intelligence** and a **BSc in Robotics Engineering** from the University of Alicante.
-    
-    My research focuses on **deep learning, computer vision, and multimodal learning**, with a particular interest in **Optimal Transport** for **explainable and generative models**, applied to **biomedical and environmental domains**.
+  <p class="about-tagline">
+    I am a <strong>PhD researcher in Artificial Intelligence</strong> at the
+    <a href="https://www.ua.es/en/index.html" target="_blank" rel="noopener">
+      University of Alicante
+    </a>,
+    supervised by
+    <strong>
+      <a href="https://cvnet.cpd.ua.es/curriculum-breve/es/garcia-d-urso-nahuel-emiliano/108306" target="_blank" rel="noopener">
+        Dr. Nahuel García D'Urso
+      </a>
+    </strong>
+    and co-supervised by
+    <strong>
+      <a href="https://cvnet.cpd.ua.es/curriculum-breve/en/fuster-guillo-andres/10095" target="_blank" rel="noopener">
+        Prof. Andres Fuster Guillo
+      </a>
+    </strong>
+    and
+    <strong>
+      <a href="https://cvnet.cpd.ua.es/curriculum-breve/en/azorin-lopez-jorge/9826" target="_blank" rel="noopener">
+        Prof. Jorge Azorin Lopez
+      </a>
+    </strong>.
+  </p>
+
+  <p class="about-tagline">
+    I hold an <strong>MSc in Artificial Intelligence</strong> and a
+    <strong>BSc in Robotics Engineering</strong> from the University of Alicante.
+  </p>
+
+  <p class="about-tagline">
+    My research focuses on <strong>deep learning, computer vision, and multimodal learning</strong>,
+    with a particular interest in <strong>Optimal Transport</strong> for
+    <strong>explainable and generative models</strong>, applied to
+    <strong>biomedical and environmental domains</strong>.
   </p>
 </div>
 
