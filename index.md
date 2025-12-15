@@ -46,6 +46,12 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
   <div style="margin-left: 1rem; margin-top: 0.5rem;">
 
     <p>
+      <strong>🧍‍♂️Disentangled Latent Spaces for 3D Human Bodies with CVAEs and OT</strong><br>
+      <em>Conference presentation: International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2025)</em><br>
+      Speaker: Mario Jerez-Tallón
+    </p>
+
+    <p>
       <strong>🦈 Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge</strong><br>
       <em>Machine Learning and Knowledge Extraction (Journal Article (MAKE))</em><br>
       DOI: <a href="https://doi.org/10.3390/make7040146">10.3390/make7040146</a><br>
