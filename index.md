@@ -44,25 +44,36 @@ title: "Portfolio – Mario Jerez"
   </p>
 </div>
 
----
-
-<div class="section-header">
+<div class="about-header section-secondary">
   <h1>🚀 Featured Projects</h1>
-  <p class="section-tagline">
+  <p class="about-tagline">
     Research projects focused on multimodal learning, explainable AI, and generative models applied to real-world problems.
   </p>
 </div>
 
----
+<!-- ================= GLORIA ================= -->
 
-### 🐟 [GLORiA – Multimodal Fish Classification](https://github.com/Tech4DLab/GLORIA)
+<h2>🐟 <a href="https://github.com/Tech4DLab/GLORIA" target="_blank" rel="noopener">
+  GLORiA – Multimodal Fish Classification
+</a></h2>
 
-**GLORiA** is a research project that proposes a **multimodal deep learning framework** for the classification of fish species and their origin *(wild, farmed, or escaped)* under real-world conditions.
+<p>
+  <strong>GLORiA</strong> is a research project that proposes a
+  <strong>multimodal deep learning framework</strong> for the classification of
+  fish species and their origin (<em>wild, farmed, or escaped</em>) under real-world conditions.
+</p>
 
-The system integrates **visual representations** with **textual domain knowledge** using **vision–language models** such as **CLIP**, enabling:
-- robust classification under distribution shifts,
-- zero-shot and few-shot reasoning,
-- and **interpretable predictions** through visual explanations.
+<p>
+  The system integrates <strong>visual representations</strong> with
+  <strong>textual domain knowledge</strong> using <strong>vision–language models</strong>
+  such as <strong>CLIP</strong>, enabling:
+</p>
+
+<ul>
+  <li>robust classification under distribution shifts,</li>
+  <li>zero-shot and few-shot reasoning,</li>
+  <li>interpretable predictions through visual explanations.</li>
+</ul>
 
 <figure class="gloria-figure">
   <div class="gloria-images">
@@ -76,16 +87,29 @@ The system integrates **visual representations** with **textual domain knowledge
   </figcaption>
 </figure>
 
----
+<!-- ================= TECH4DIET ================= -->
 
-### 🍎 [Tech4Diet – Explainable 3D Human Body Modeling](https://github.com/Tech4DLab)
+<h2>🍎 <a href="https://github.com/Tech4DLab" target="_blank" rel="noopener">
+  Tech4Diet – Explainable 3D Human Body Modeling
+</a></h2>
 
-**Tech4Diet** is a research project focused on the **analysis and prediction of human body evolution** during dietary or physical treatments using state-of-the-art **computer vision** techniques.
+<p>
+  <strong>Tech4Diet</strong> is a research project focused on the
+  <strong>analysis and prediction of human body evolution</strong> during dietary
+  or physical treatments using state-of-the-art <strong>computer vision</strong> techniques.
+</p>
 
-The system leverages **3D body reconstructions captured over time**, enabling **4D modeling** of shape changes. By combining computer vision and machine learning, Tech4Diet provides:
-- precise quantification of body shape evolution,
-- interpretable analysis of morphological changes,
-- and predictive insights for **weight-loss and muscle development programs**.
+<p>
+  The system leverages <strong>3D body reconstructions captured over time</strong>,
+  enabling <strong>4D modeling</strong> of shape changes. By combining computer vision
+  and machine learning, Tech4Diet provides:
+</p>
+
+<ul>
+  <li>precise quantification of body shape evolution,</li>
+  <li>interpretable analysis of morphological changes,</li>
+  <li>predictive insights for weight-loss and muscle development programs.</li>
+</ul>
 
 <figure class="project-video-figure">
   <div class="project-video">
@@ -98,8 +122,6 @@ The system leverages **3D body reconstructions captured over time**, enabling **
     <strong>Figure 2.</strong> AI-generated animated overview of the Tech4Diet project.
   </figcaption>
 </figure>
-
----
 
 <h1>📄 Publications</h1>
 <h2>Publications by Year</h2>
