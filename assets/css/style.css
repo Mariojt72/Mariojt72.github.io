@@ -225,4 +225,17 @@ figure figcaption {
   text-decoration: underline;
 }
 
+.section-secondary {
+  background: linear-gradient(135deg, #f9fafb, #f1f5f9);
+  border-left-color: #10b981; /* verde suave */
+}
+
+.section-secondary h1 {
+  font-size: 1.6rem;
+}
+
+.section-secondary .about-tagline {
+  font-size: 14.5px;
+}
+
 
