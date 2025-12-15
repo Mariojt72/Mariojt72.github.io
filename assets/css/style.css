@@ -154,5 +154,29 @@ body {
   background-color: #f59e0b; /* amber */
 }
 
+/* GLORiA IMAGES -------------------------------------------------- */
+.gloria-images {
+  display: flex;
+  gap: 16px;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.gloria-images img {
+  width: 100%;
+  max-width: 50%;
+  border-radius: 6px;
+}
+
+/* Responsive: stack on small screens */
+@media (max-width: 768px) {
+  .gloria-images {
+    flex-direction: column;
+  }
+
+  .gloria-images img {
+    max-width: 100%;
+  }
+}
 
 
