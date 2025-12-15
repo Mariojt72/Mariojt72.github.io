@@ -209,9 +209,20 @@ figure figcaption {
 }
 
 .about-tagline {
-  margin-top: 8px;
+  margin-top: 10px;
   font-size: 15px;
-  color: #4b5563;
+  line-height: 1.6;
+  color: #374151;
+}
+
+.about-tagline a {
+  color: #4f46e5;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.about-tagline a:hover {
+  text-decoration: underline;
 }
 
 
