@@ -14,13 +14,14 @@ I work in applied AI for **nutrition, human body modeling, and marine biology**,
 
 # 🚀 Featured Projects
 
-### 🐟 GLORiA – Multimodal Fish Classification  
-**Deep learning + CLIP + domain priors for species and origin classification (wild vs farmed vs escaped).**  
-🔗 https://github.com/Tech4DLab/GLORIA
+### 🐟 [GLORiA – Multimodal Fish Classification](https://github.com/Tech4DLab/GLORIA)
+Deep learning + CLIP + domain priors for species and origin classification *(wild vs farmed vs escaped)*.
 
-### 🧍‍♂️ Tech4Diet – Explainable 3D Human Body Modeling  
-**Generative models (CVAE, VAE-OT), 3D mesh reconstruction, and anthropometric estimation.**  
-🔗 https://github.com/Tech4DLab
+---
+
+### 🧍‍♂️ [Tech4Diet – Explainable 3D Human Body Modeling](https://github.com/Tech4DLab)
+Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric estimation.
+
 
 ---
 
