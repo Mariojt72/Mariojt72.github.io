@@ -122,7 +122,7 @@ title: "Portfolio – Mario Jerez"
   </div>
 </div>
 
-<div class="about-header section-secondary publications-section">
+<div class="about-header section-publications">
   <h1>📄 Publications</h1>
   <p class="about-tagline">
     Peer-reviewed journal articles and conference contributions, organized by year.
@@ -141,7 +141,7 @@ title: "Portfolio – Mario Jerez"
           <a href="https://doi.org/10.1007/978-3-032-02725-2_6" target="_blank" rel="noopener">
             10.1007/978-3-032-02725-2_6
           </a><br>
-          Authors: <strong>Mario Jerez-Tallón</strong>, Ismael Beviá Ballesteros et al.
+          Authors: Mario Jerez-Tallón, Ismael Beviá Ballesteros et al.
         </p>
 
       </div>
@@ -164,7 +164,7 @@ title: "Portfolio – Mario Jerez"
           <a href="https://doi.org/10.3390/make7040146" target="_blank" rel="noopener">
             10.3390/make7040146
           </a><br>
-          Authors: Ismael Beviá-Ballesteros, <strong>Mario Jerez-Tallón</strong> et al.
+          Authors: Ismael Beviá-Ballesteros, Mario Jerez-Tallón et al.
         </p>
 
         <p class="pub-item">
@@ -197,7 +197,7 @@ title: "Portfolio – Mario Jerez"
           <a href="https://doi.org/10.1007/978-3-031-77571-0_75" target="_blank" rel="noopener">
             10.1007/978-3-031-77571-0_75
           </a><br>
-          Authors: <strong>Mario Jerez-Tallón</strong>, Nahuel García-D'Urso et al.
+          Authors: Mario Jerez-Tallón, Nahuel García-D'Urso et al.
         </p>
 
         <p class="pub-item">
@@ -215,7 +215,6 @@ title: "Portfolio – Mario Jerez"
 
   </div>
 </div>
-
 
 # 🛠️ Skills
 
