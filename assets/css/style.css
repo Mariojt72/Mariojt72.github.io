@@ -245,17 +245,6 @@ figure figcaption {
   font-size: 14.5px;
 }
 
-.projects-container {
-  margin-top: 24px;
-  padding: 24px;
-  background: rgba(255, 255, 255, 0.6);
-  border-radius: 8px;
-}
-
-.section-projects .projects-container {
-  border-left: 3px solid rgba(16, 185, 129, 0.3);
-}
-
 /* 📄 PUBLICATIONS (morado) */
 
 .about-header.section-publications {
