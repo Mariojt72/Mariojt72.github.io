@@ -196,9 +196,10 @@ figure figcaption {
 
 /* ABOUT HEADER ------------------------------------------------- */
 
+/* Base (estructura común) */
 .about-header {
   background: linear-gradient(135deg, #f9fafb, #eef2ff);
-  border-left: 5px solid #6366f1;
+  border-left: 5px solid;
   padding: 20px 24px;
   border-radius: 10px;
   margin-bottom: 24px;
@@ -225,16 +226,22 @@ figure figcaption {
   text-decoration: underline;
 }
 
-.section-secondary {
-  background: linear-gradient(135deg, #f9fafb, #f1f5f9);
-  border-left-color: #3aed79; /* verde suave */
+/* 🧠 ABOUT ME (índigo) */
+.about-header.about-main {
+  border-left-color: #6366f1;
 }
 
-.section-secondary h1 {
+/* 🚀 FEATURED PROJECTS (verde) */
+.about-header.section-projects {
+  background: linear-gradient(135deg, #f9fafb, #ecfdf5);
+  border-left-color: #10b981;
+}
+
+.about-header.section-projects h1 {
   font-size: 1.6rem;
 }
 
-.section-secondary .about-tagline {
+.about-header.section-projects .about-tagline {
   font-size: 14.5px;
 }
 
@@ -245,17 +252,26 @@ figure figcaption {
   border-radius: 8px;
 }
 
-.section-secondary .projects-container {
-  border-left: 3px solid rgba(124, 58, 237, 0.3);
+.section-projects .projects-container {
+  border-left: 3px solid rgba(16, 185, 129, 0.3);
 }
 
-/* PUBLICATIONS -------------------------------------------------- */
+/* 📄 PUBLICATIONS (morado) */
+
+.about-header.section-publications {
+  background: linear-gradient(135deg, #faf5ff, #f3e8ff);
+  border-left-color: #7c3aed;
+}
 
 .publications-container {
   margin-top: 24px;
   padding: 24px;
   background: rgba(255, 255, 255, 0.6);
   border-radius: 8px;
+}
+
+.section-publications .publications-container {
+  border-left: 3px solid rgba(124, 58, 237, 0.3);
 }
 
 .publications-container details {
@@ -287,6 +303,7 @@ figure figcaption {
 .pub-item a:hover {
   text-decoration: underline;
 }
+
 
 
 
