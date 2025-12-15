@@ -25,7 +25,7 @@ body {
 .name {
   font-size: 24px;
   font-weight: 700;
-  margin: 0;
+  margin: 10px 0 0 0;
 }
 
 .role {
@@ -60,6 +60,17 @@ body {
   width: 1em;
   height: 1em;
   flex-shrink: 0;
+}
+
+/* ICONS ---------------------------------------------------------- */
+.icon,
+.emoji {
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* FOOTER --------------------------------------------------------- */
