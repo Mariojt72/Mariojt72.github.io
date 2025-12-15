@@ -5,19 +5,24 @@ title: "Portfolio – Mario Jerez"
 
 # 🧠 About Me
 
-I am a **PhD student** at the [University of Alicante](https://www.ua.es/en/index.html), supervised by **Dr. [Nahuel García D'Urso](https://cvnet.cpd.ua.es/curriculum-breve/es/garcia-d-urso-nahuel-emiliano/108306)** and co-supervised by **Prof. [Andres Fuster Guillo](https://cvnet.cpd.ua.es/curriculum-breve/en/fuster-guillo-andres/10095)** and **Prof. [Jorge Azorin Lopez](https://cvnet.cpd.ua.es/curriculum-breve/en/azorin-lopez-jorge/9826)**.
+I am a **PhD researcher in Artificial Intelligence** at the [University of Alicante](https://www.ua.es/en/index.html), supervised by **Dr. [Nahuel García D'Urso](https://cvnet.cpd.ua.es/curriculum-breve/es/garcia-d-urso-nahuel-emiliano/108306)** and co-supervised by **Prof. [Andres Fuster Guillo](https://cvnet.cpd.ua.es/curriculum-breve/en/fuster-guillo-andres/10095)** and **Prof. [Jorge Azorin Lopez](https://cvnet.cpd.ua.es/curriculum-breve/en/azorin-lopez-jorge/9826)**.
 
-I hold an **MSc in [Artificial Intelligence](https://web.ua.es/es/masteres/inteligencia-artificial/)** and a **BSc in [Robotics Engineering](https://web.ua.es/es/grados/grado-en-ingenieria-robotica/)**.  
-My research interests include **deep learning, computer vision, and multimodal learning**, with a particular focus on **Optimal Transport** and its applications.
+I hold an **MSc in Artificial Intelligence** and a **BSc in Robotics Engineering** from the University of Alicante.
 
-
+My research focuses on **deep learning, computer vision, and multimodal learning**, with a particular interest in **Optimal Transport** for **explainable and generative models**, applied to **biomedical and environmental domains**.
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🐟 [GLORiA – Multimodal Fish Classification](https://github.com/Tech4DLab/GLORIA)
-**GLORiA** is a project that develops a **multimodal deep learning framework** for the classification of fish species and their origin *(wild, farmed, or escaped)*. The system combines **visual information** with **textual domain knowledge** through **vision–language models** such as **CLIP**, enabling robust and interpretable predictions in challenging real-world scenarios.
+
+**GLORiA** is a research project that proposes a **multimodal deep learning framework** for the classification of fish species and their origin *(wild, farmed, or escaped)* under real-world conditions.
+
+The system integrates **visual representations** with **textual domain knowledge** using **vision–language models** such as **CLIP**, enabling:
+- robust classification under distribution shifts,
+- zero-shot and few-shot reasoning,
+- and **interpretable predictions** through visual explanations.
 
 <div class="gloria-images">
   <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github2.png"
@@ -29,7 +34,12 @@ My research interests include **deep learning, computer vision, and multimodal l
 ---
 
 ### 🍎 [Tech4Diet – Explainable 3D Human Body Modeling](https://github.com/Tech4DLab)
-**Tech4Diet** is a project that develops a system to measure the physical **evolution** of the **human body** during specific treatments by leveraging state-of-the-art **computer vision** technologies. The system uses **3D images** captured **over time**, thereby incorporating a **fourth dimension**. The result is a precise analysis that is highly valuable for both weight-loss treatments and muscle development programs.
+**Tech4Diet** is a project that develops a system to measure the physical **evolution** of the **human body** during specific treatments by leveraging state-of-the-art **computer vision** technologies. The system uses **3D images** captured **over time**, thereby incorporating a **fourth dimension**. The result is a precise analysis that is highly valuable for both weight-loss treatments and muscle development programs. The last project actualization focused on the **analysis and prediction of human body evolution** during dietary or physical treatments.
+
+The system leverages **3D body reconstructions captured over time**, enabling **4D modeling** of shape changes. By combining computer vision and machine learning techniques, Tech4Diet provides:
+- precise quantification of body shape evolution,
+- interpretable analysis of morphological changes,
+- and predictive insights for **weight-loss and muscle development programs**.
 
 <div class="project-video">
   <video controls preload="metadata">
@@ -165,7 +175,7 @@ My research interests include **deep learning, computer vision, and multimodal l
 <div class="skill ai">
   <span class="skill-name">Foundation & Vision-Language Models (CLIP, VLMs)</span>
   <div class="skill-bar">
-    <div class="skill-level" style="width: 65%"></div>
+    <div class="skill-level" style="width: 75%"></div>
   </div>
 </div>
 
@@ -229,7 +239,7 @@ My research interests include **deep learning, computer vision, and multimodal l
 <ul class="languages">
   <li>
     <img src="https://flagcdn.com/w20/es.png" alt="Spanish flag">
-    Spanish — Native (C2)
+    Spanish — Native 
   </li>
   <li>
     <img src="https://flagcdn.com/w20/gb.png" alt="UK flag">
