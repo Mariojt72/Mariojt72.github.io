@@ -101,51 +101,72 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
 # 🛠️ Skills
 
-## Artificial Intelligence
+## Programming & Frameworks
 
 <div class="skill ai">
-  <span class="skill-name">Deep Learning (PyTorch, TensorFlow, JAX)</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 90%"></div>
-  </div>
-</div>
-
-<div class="skill ai">
-  <span class="skill-name">Generative Models (VAE, CVAE, Diffusion, OT)</span>
+  <span class="skill-name">PyTorch</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 85%"></div>
   </div>
 </div>
 
 <div class="skill ai">
-  <span class="skill-name">Multimodal Learning (CLIP, Vision-Language)</span>
+  <span class="skill-name">TensorFlow</span>
+  <div class="skill-bar">
+    <div class="skill-level" style="width: 85%"></div>
+  </div>
+</div>
+
+<div class="skill ai">
+  <span class="skill-name">Python</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 80%"></div>
   </div>
 </div>
 
+<div class="skill ai">
+  <span class="skill-name">C++/C#</span>
+  <div class="skill-bar">
+    <div class="skill-level" style="width: 70%"></div>
+  </div>
+</div>
+
+<div class="skill ai">
+  <span class="skill-name">ROS</span>
+  <div class="skill-bar">
+    <div class="skill-level" style="width: 65%"></div>
+  </div>
+</div>
+
 ---
 
-## Computer Vision
+## Machile Learning & Models
 
 <div class="skill cv">
-  <span class="skill-name">Image Classification, Segmentation & Explainability</span>
+  <span class="skill-name">Deep Learning (CNN, Transformers...) </span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 85%"></div>
   </div>
 </div>
 
 <div class="skill cv">
-  <span class="skill-name">3D Mesh Processing & Body Modeling (SMPL / STAR)</span>
+  <span class="skill-name">Large Language & Vision-Language Models (CLIP, VLMs...)</span>
   <div class="skill-bar">
-    <div class="skill-level" style="width: 90%"></div>
+    <div class="skill-level" style="width: 75%"></div>
   </div>
 </div>
 
 <div class="skill cv">
-  <span class="skill-name">Optimal Transport for Geometric & Generative Tasks</span>
+  <span class="skill-name">Generative Models (VAE, CVAE, Diffusion...)</span>
   <div class="skill-bar">
-    <div class="skill-level" style="width: 75%"></div>
+    <div class="skill-level" style="width: 70%"></div>
+  </div>
+</div>
+
+<div class="skill ai">
+  <span class="skill-name">Optimal Transport (OT, Sinkhorn, OT-Regularized Models...)</span>
+  <div class="skill-bar">
+    <div class="skill-level" style="width: 80%"></div>
   </div>
 </div>
 
