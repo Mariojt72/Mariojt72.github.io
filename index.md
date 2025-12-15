@@ -44,80 +44,85 @@ title: "Portfolio – Mario Jerez"
   </p>
 </div>
 
-<div class="about-header section-secondary">
+<div class="about-header section-projects">
   <h1>🚀 Featured Projects</h1>
   <p class="about-tagline">
     Research projects focused on multimodal learning, explainable AI, and generative models applied to real-world problems.
   </p>
 
-  <!-- PROJECTS CONTAINER -->
-  <div class="projects-container">
+  <div class="projects-list">
 
-    <!-- ================= GLORIA ================= -->
+    <!-- ================= GLORiA CARD ================= -->
+    <div class="project-card">
 
-    <h2>🐟 <a href="https://github.com/Tech4DLab/GLORIA" target="_blank" rel="noopener">
-      GLORiA – Multimodal Fish Classification
-    </a></h2>
+      <h2>🐟 <a href="https://github.com/Tech4DLab/GLORIA" target="_blank" rel="noopener">
+        GLORiA – Multimodal Fish Classification
+      </a></h2>
 
-    <p>
-      <strong>GLORiA</strong> is a research project that proposes a
-      <strong>multimodal deep learning framework</strong> for the classification of
-      fish species and their origin (<em>wild, farmed, or escaped</em>) under real-world conditions.
-    </p>
+      <p>
+        <strong>GLORiA</strong> is a research project that proposes a
+        <strong>multimodal deep learning framework</strong> for the classification of
+        fish species and their origin (<em>wild, farmed, or escaped</em>) under real-world conditions.
+      </p>
 
-    <p>
-      The system integrates <strong>visual representations</strong> with
-      <strong>textual domain knowledge</strong> using <strong>vision–language models</strong>
-      such as <strong>CLIP</strong>, enabling:
-    </p>
+      <p>
+        The system integrates <strong>visual representations</strong> with
+        <strong>textual domain knowledge</strong> using <strong>vision–language models</strong>
+        such as <strong>CLIP</strong>, enabling:
+      </p>
 
-    <ul>
-      <li>robust classification under distribution shifts,</li>
-      <li>zero-shot and few-shot reasoning,</li>
-      <li>interpretable predictions through visual explanations.</li>
-    </ul>
+      <ul>
+        <li>robust classification under distribution shifts,</li>
+        <li>zero-shot and few-shot reasoning,</li>
+        <li>interpretable predictions through visual explanations.</li>
+      </ul>
 
-    <figure class="gloria-figure">
-      <div class="gloria-images">
-        <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github2.png"
-             alt="GLORiA multimodal pipeline and explainability framework">
-        <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github.png"
-             alt="Grad-ECLIP visual explanation for GLORiA">
-      </div>
-      <figcaption>
-        <strong>Figure 1.</strong> Overview of the GLORiA multimodal framework and Grad-ECLIP visual explanation mechanism for fish origin classification.
-      </figcaption>
-    </figure>
+      <figure class="gloria-figure">
+        <div class="gloria-images">
+          <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github2.png"
+               alt="GLORiA multimodal pipeline and explainability framework">
+          <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github.png"
+               alt="Grad-ECLIP visual explanation for GLORiA">
+        </div>
+        <figcaption>
+          <strong>Figure 1.</strong> Overview of the GLORiA multimodal framework and Grad-ECLIP visual explanation mechanism.
+        </figcaption>
+      </figure>
 
-    <!-- ================= TECH4DIET ================= -->
+    </div>
 
-    <h2>🍎 <a href="https://github.com/Tech4DLab" target="_blank" rel="noopener">
-      Tech4Diet – Explainable 3D Human Body Modeling
-    </a></h2>
+    <!-- ================= TECH4DIET CARD ================= -->
+    <div class="project-card">
 
-    <p>
-      <strong>Tech4Diet</strong> is a research project focused on the
-      <strong>analysis and prediction of human body evolution</strong> during dietary
-      or physical treatments using state-of-the-art <strong>computer vision</strong> techniques.
-    </p>
+      <h2>🍎 <a href="https://github.com/Tech4DLab" target="_blank" rel="noopener">
+        Tech4Diet – Explainable 3D Human Body Modeling
+      </a></h2>
 
-    <ul>
-      <li>precise quantification of body shape evolution,</li>
-      <li>interpretable analysis of morphological changes,</li>
-      <li>predictive insights for weight-loss and muscle development programs.</li>
-    </ul>
+      <p>
+        <strong>Tech4Diet</strong> is a research project focused on the
+        <strong>analysis and prediction of human body evolution</strong> during dietary
+        or physical treatments using state-of-the-art <strong>computer vision</strong> techniques.
+      </p>
 
-    <figure class="project-video-figure">
-      <div class="project-video">
-        <video controls preload="metadata">
-          <source src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/Tech4D.mp4">
-          Your browser does not support the video tag.
-        </video>
-      </div>
-      <figcaption>
-        <strong>Figure 2.</strong> AI-generated animated overview of the Tech4Diet project.
-      </figcaption>
-    </figure>
+      <ul>
+        <li>precise quantification of body shape evolution,</li>
+        <li>interpretable analysis of morphological changes,</li>
+        <li>predictive insights for weight-loss and muscle development programs.</li>
+      </ul>
+
+      <figure class="project-video-figure">
+        <div class="project-video">
+          <video controls preload="metadata">
+            <source src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/Tech4D.mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+        <figcaption>
+          <strong>Figure 2.</strong> AI-generated animated overview of the Tech4Diet project.
+        </figcaption>
+      </figure>
+
+    </div>
 
   </div>
 </div>
