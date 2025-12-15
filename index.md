@@ -5,10 +5,11 @@ title: "Portfolio – Mario Jerez"
 
 # 🧠 About Me
 
-I am a PhD candidate in Artificial Intelligence at the University of Alicante.  
-My research focuses on **computer vision**, **generative modeling**, **multimodal learning**, **3D human reconstruction**, and **Optimal Transport**.  
+I am a PhD student at the [University of Alicante](https://www.ua.es/en/index.html), supervised by Dr. [Nahuel García D'Urso](https://cvnet.cpd.ua.es/curriculum-breve/es/garcia-d-urso-nahuel-emiliano/108306) and co-supervised by Prof. [Andres Fuster Guillo](https://cvnet.cpd.ua.es/curriculum-breve/en/fuster-guillo-andres/10095) and Prof. [Jorge Azorin Lopez](https://cvnet.cpd.ua.es/curriculum-breve/en/azorin-lopez-jorge/9826).
 
-I work in applied AI for **nutrition, human body modeling, and marine biology**, combining deep learning, 3D geometry, and explainable AI.
+I hold an MSc in [Artificial Intelligence](https://web.ua.es/es/masteres/inteligencia-artificial/) and a BSc in [Robotics Engineering](https://web.ua.es/es/grados/grado-en-ingenieria-robotica/) also from the UA.  
+My research interests include deep learning, computer vision, and multimodal learning, with a particular focus on Optimal Transport and its applications.
+
 
 ---
 
