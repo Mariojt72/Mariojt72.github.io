@@ -33,9 +33,9 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
     <p>
       <strong>📘 Comparative Study of Deep Learning Approaches for Fish Origin Classification</strong><br>
-      <em>Book chapter</em><br>
+      <em>Advances in Computational Intelligence (International Work-Conference on Artificial Neural Networks 2025 (IWANN 2025))</em><br>
       DOI: <a href="https://doi.org/10.1007/978-3-032-02725-2_6">10.1007/978-3-032-02725-2_6</a><br>
-      Authors: Mario Jerez-Tallón et al.
+      Authors: Mario Jerez-Tallón, Ismael Beviá Ballesteros et al.
     </p>
 
   </div>
@@ -47,15 +47,15 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
     <p>
       <strong>🦈 Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge</strong><br>
-      <em>Journal Article (MAKE)</em><br>
+      <em>Machine Learning and Knowledge Extraction (Journal Article (MAKE))</em><br>
       DOI: <a href="https://doi.org/10.3390/make7040146">10.3390/make7040146</a><br>
       Authors: Ismael Beviá-Ballesteros; Mario Jerez-Tallón et al.
     </p>
 
     <p>
       <strong>🐟 Deep Learning Approaches for Wild vs Farmed Fish Classification</strong><br>
-      <em>Conference: SARTECO 2025</em><br>
-      Author: Mario Jerez-Tallón
+      <em>Conference presentation: Sociedad de ARquitecturas y TEcnología de los COmputadores (SARTECO 2025)</em><br>
+      Speaker: Mario Jerez-Tallón
     </p>
 
   </div>
@@ -67,14 +67,16 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
     <p>
       <strong>🧍‍♂️ 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models</strong><br>
-      <em>Book chapter</em><br>
+      <em>Proceedings of the International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2024)</em><br>
       DOI: <a href="https://doi.org/10.1007/978-3-031-77571-0_30">10.1007/978-3-031-77571-0_30</a>
+      Authors: Juan Muelledes, Nahuel García D'urso et al.
     </p>
 
     <p>
       <strong>🐠 Automatic Identification of Fish Species and Their Farmed or Wild Origin</strong><br>
-      <em>Book chapter</em><br>
+      <em>Proceedings of the International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2024)</em><br>
       DOI: <a href="https://doi.org/10.1007/978-3-031-77571-0_75">10.1007/978-3-031-77571-0_75</a>
+      Authors: Mario Jerez-Tallón, Nahuel García-D'urso  et al.
     </p>
 
   </div>
