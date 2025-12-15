@@ -3,7 +3,7 @@ layout: default
 title: "Portfolio – Mario Jerez"
 ---
 
-<div class="about-header">
+<div class="about-header about-main">
   <h1>🧠 About Me</h1>
 
   <p class="about-tagline">
