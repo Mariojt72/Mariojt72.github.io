@@ -227,7 +227,7 @@ figure figcaption {
 
 .section-secondary {
   background: linear-gradient(135deg, #f9fafb, #f1f5f9);
-  border-left-color: #7c3aed; /* verde suave */
+  border-left-color: #10b981; /* verde suave */
 }
 
 .section-secondary h1 {
@@ -239,16 +239,16 @@ figure figcaption {
 }
 
 .projects-container {
-  margin-top: 28px;
+  margin-top: 24px;
+  padding: 24px;
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 8px;
 }
 
-.projects-container h2 {
-  margin-top: 32px;
+.section-secondary .projects-container {
+  border-left: 3px solid rgba(124, 58, 237, 0.3);
 }
 
-.projects-container h2:first-child {
-  margin-top: 0;
-}
 
 
 
