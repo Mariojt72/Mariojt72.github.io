@@ -32,7 +32,7 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
   <div style="margin-left: 1rem; margin-top: 0.5rem;">
 
     <p>
-      <strong>📘 Comparative Study of Deep Learning Approaches for Fish Origin Classification</strong><br>
+      <strong>🐟 Comparative Study of Deep Learning Approaches for Fish Origin Classification</strong><br>
       <em>Advances in Computational Intelligence (International Work-Conference on Artificial Neural Networks 2025 (IWANN 2025))</em><br>
       DOI: <a href="https://doi.org/10.1007/978-3-032-02725-2_6">10.1007/978-3-032-02725-2_6</a><br>
       Authors: Mario Jerez-Tallón, Ismael Beviá Ballesteros et al.
@@ -73,10 +73,17 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
     </p>
 
     <p>
-      <strong>🐠 Automatic Identification of Fish Species and Their Farmed or Wild Origin</strong><br>
+      <strong>🐟 Automatic Identification of Fish Species and Their Farmed or Wild Origin</strong><br>
       <em>Proceedings of the International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2024)</em><br>
       DOI: <a href="https://doi.org/10.1007/978-3-031-77571-0_75">10.1007/978-3-031-77571-0_75</a>
       Authors: Mario Jerez-Tallón, Nahuel García-D'urso  et al.
+    </p>
+
+    <p>
+      <strong>🧍‍♂️ A Deep Learning Analysis of 3D Body Shapes and Clinical Data for Understanding Dietetic Interventions</strong><br>
+      <em>Research and Innovation Forum 2024 (RIIFORUM 2024)</em><br>
+      DOI: <a href="https://doi.org/10.1007/978-3-031-78623-5_41">10.1007/978-3-031-77571-0_30</a>
+      Authors: Nahuel García-D'urso, Jorge Azorín-López et al.
     </p>
 
   </div>
