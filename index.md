@@ -172,28 +172,55 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
 ---
 
-## Engineering & Tools
+## MLOps & Systems
 
-<div class="skill eng">
-  <span class="skill-name">Python, Docker, Git, Linux</span>
+<div class="skill cv">
+  <span class="skill-name">Docker & Containerized Deployment</span>
   <div class="skill-bar">
-    <div class="skill-level" style="width: 90%"></div>
+    <div class="skill-level" style="width: 85%"></div>
   </div>
 </div>
 
-<div class="skill eng">
-  <span class="skill-name">CUDA, HPC & Distributed Learning (NVFlare)</span>
+<div class="skill cv">
+  <span class="skill-name">Cloud & Distributed Training (Azure, NVFlare)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 70%"></div>
   </div>
 </div>
 
-<div class="skill eng">
-  <span class="skill-name">ROS & 3D Data Pipelines</span>
+<div class="skill cv">
+  <span class="skill-name">CUDA & GPU Acceleration</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 65%"></div>
   </div>
 </div>
+
+---
+
+## Computer Vision & 3D
+
+<div class="skill cv">
+  <span class="skill-name">Image Classification & Explainability</span>
+  <div class="skill-bar">
+    <div class="skill-level" style="width: 85%"></div>
+  </div>
+</div>
+
+<div class="skill cv">
+  <span class="skill-name">3D Mesh Processing & Human Body Modeling (SMPL / STAR)</span>
+  <div class="skill-bar">
+    <div class="skill-level" style="width: 90%"></div>
+  </div>
+</div>
+
+<div class="skill cv">
+  <span class="skill-name">3D Reconstruction & Temporal Analysis (4D)</span>
+  <div class="skill-bar">
+    <div class="skill-level" style="width: 85%"></div>
+  </div>
+</div>
+
+---
 
 # 📬 Contact
 
