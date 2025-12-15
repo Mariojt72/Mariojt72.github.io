@@ -210,11 +210,21 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
 ## Languages
 
-<ul>
-  <li>🇪🇸 Spanish — Native (C2)</li>
-  <li>🇬🇧 English — Advanced (C1)</li>
-  <li>Valencian — Advanced (C1)</li>
+<ul class="languages">
+  <li>
+    <img src="https://flagcdn.com/w20/es.png" alt="ES">
+    Spanish — Native (C2)
+  </li>
+  <li>
+    <img src="https://flagcdn.com/w20/gb.png" alt="EN">
+    English — Advanced (C1)
+  </li>
+  <li>
+    <img src="https://flagcdn.com/w20/es.png" alt="ES">
+    Valencian — Advanced (C1)
+  </li>
 </ul>
+
 
 
 ---
@@ -222,8 +232,6 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 # 📬 Contact
 
 📧 **mario.jerez@ua.es**  
-🔗 **LinkedIn:** https://linkedin.com/in/mariojerez  
-🔗 **GitHub:** https://github.com/Tech4DLab  
-
+🔗 **Discord:** mario_j_t  
 ---
 
