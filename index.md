@@ -159,7 +159,7 @@ title: "Portfolio – Mario Jerez"
         <p class="pub-item">
           <strong>🍎 Disentangled Latent Spaces for 3D Human Bodies with CVAEs and OT</strong><br>
           <em>Conference presentation: UCAmI 2025</em><br>
-          Speaker: <strong>Mario Jerez-Tallón</strong>
+          Speaker: Mario Jerez-Tallón
         </p>
 
         <p class="pub-item">
@@ -175,7 +175,7 @@ title: "Portfolio – Mario Jerez"
         <p class="pub-item">
           <strong>🐟 Deep Learning Approaches for Wild vs Farmed Fish Classification</strong><br>
           <em>Conference presentation: SARTECO 2025</em><br>
-          Speaker: <strong>Mario Jerez-Tallón</strong>
+          Speaker: Mario Jerez-Tallón
         </p>
 
       </div>
