@@ -20,11 +20,11 @@ My research interests include **deep learning, computer vision, and multimodal l
 **GLORiA** is a project that develops a **multimodal deep learning framework** for the classification of fish species and their origin *(wild, farmed, or escaped)*. The system combines **visual information** with **textual domain knowledge** through **vision–language models** such as **CLIP**, enabling robust and interpretable predictions in challenging real-world scenarios.
 
 <div style="margin-top: 1rem; margin-bottom: 1.5rem;">
-  <img src="{{ '/assets/github.png' | relative_url }}"
+  <img src="{{ '/assets/github.png'}}"
        alt="Grad-ECLIP visual explanations for GLORiA"
        style="width: 100%; max-width: 900px; display: block; margin-bottom: 1rem;">
   
-  <img src="{{ '/assets/github2.png.png' | relative_url }}"
+  <img src="{{ '/assets/github2.png'}}"
        alt="GLORiA multimodal pipeline and explainability framework"
        style="width: 100%; max-width: 900px; display: block;">
 
