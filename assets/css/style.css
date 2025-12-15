@@ -351,16 +351,16 @@ figure figcaption {
 /* LANGUAGES ---------------------------------------------------- */
 
 .about-header.section-languages {
-  background: linear-gradient(135deg, #f9fafb, #f1f5f9);
-  border-left-color: #0ea5e9; /* azul técnico */
+  background: linear-gradient(135deg, #fdf6ec, #fff7ed);
+  border-left-color: #f59e0b; /* naranja elegante */
 }
 
 .languages-card {
   margin-top: 24px;
   padding: 20px 24px;
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.75);
   border-radius: 10px;
-  border-left: 4px solid rgba(14, 165, 233, 0.35);
+  border-left: 4px solid rgba(245, 158, 11, 0.35);
 }
 
 .languages-list {
@@ -385,6 +385,7 @@ figure figcaption {
 .languages-list img {
   border-radius: 3px;
 }
+
 
 
 
