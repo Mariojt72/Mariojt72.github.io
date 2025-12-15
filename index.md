@@ -98,9 +98,6 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 </details>
 
 ---
-
-# 🛠️ Skills
-
 # 🛠️ Skills
 
 ## Programming & Frameworks
@@ -113,30 +110,30 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 </div>
 
 <div class="skill eng">
-  <span class="skill-name">PyTorch</span>
+  <span class="skill-name">Deep Learning Frameworks (PyTorch, TensorFlow / Keras)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 85%"></div>
   </div>
 </div>
 
 <div class="skill eng">
-  <span class="skill-name">TensorFlow / Keras</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 80%"></div>
-  </div>
-</div>
-
-<div class="skill eng">
-  <span class="skill-name">C++ / C#</span>
+  <span class="skill-name">C / C++ / C#</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 70%"></div>
   </div>
 </div>
 
 <div class="skill eng">
-  <span class="skill-name">ROS (Robot Operating System)</span>
+  <span class="skill-name">ROS & Robotics Software</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 65%"></div>
+  </div>
+</div>
+
+<div class="skill eng">
+  <span class="skill-name">MATLAB</span>
+  <div class="skill-bar">
+    <div class="skill-level" style="width: 60%"></div>
   </div>
 </div>
 
@@ -145,14 +142,14 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 ## Machine Learning & Models
 
 <div class="skill ai">
-  <span class="skill-name">Deep Learning (CNNs, Transformers)</span>
+  <span class="skill-name">Deep Learning Architectures (CNNs, Transformers)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 85%"></div>
   </div>
 </div>
 
 <div class="skill ai">
-  <span class="skill-name">Vision-Language & LLMs (CLIP, VLMs)</span>
+  <span class="skill-name">Foundation & Vision-Language Models (CLIP, VLMs)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 75%"></div>
   </div>
@@ -169,6 +166,13 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
   <span class="skill-name">Optimal Transport (Sinkhorn, OT-Regularized Models)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 80%"></div>
+  </div>
+</div>
+
+<div class="skill ai">
+  <span class="skill-name">Explainable AI (XAI)</span>
+  <div class="skill-bar">
+    <div class="skill-level" style="width: 70%"></div>
   </div>
 </div>
 
@@ -197,6 +201,18 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
   </div>
 </div>
 
+<div class="skill cv">
+  <span class="skill-name">Git & Version Control</span>
+  <div class="skill-bar">
+    <div class="skill-level" style="width: 85%"></div>
+  </div>
+</div>
+
+## Languages
+
+- 🇪🇸 Spanish — Native (C2)
+- 🇬🇧 English — Advanced (C1)
+- 🇪🇸 Valencian — Advanced (C1)
 
 ---
 
