@@ -103,22 +103,22 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
 ## Artificial Intelligence
 
-<div class="skill">
+<div class="skill ai">
   <span class="skill-name">Deep Learning (PyTorch, TensorFlow, JAX)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 90%"></div>
   </div>
 </div>
 
-<div class="skill">
+<div class="skill ai">
   <span class="skill-name">Generative Models (VAE, CVAE, Diffusion, OT)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 85%"></div>
   </div>
 </div>
 
-<div class="skill">
-  <span class="skill-name">Multimodal Learning (CLIP, VLMs)</span>
+<div class="skill ai">
+  <span class="skill-name">Multimodal Learning (CLIP, Vision-Language)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 80%"></div>
   </div>
@@ -128,22 +128,22 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
 ## Computer Vision
 
-<div class="skill">
-  <span class="skill-name">Image Classification & Segmentation</span>
+<div class="skill cv">
+  <span class="skill-name">Image Classification, Segmentation & Explainability</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 85%"></div>
   </div>
 </div>
 
-<div class="skill">
-  <span class="skill-name">3D Mesh Processing & Body Modeling</span>
+<div class="skill cv">
+  <span class="skill-name">3D Mesh Processing & Body Modeling (SMPL / STAR)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 90%"></div>
   </div>
 </div>
 
-<div class="skill">
-  <span class="skill-name">Optimal Transport (Geometric & Generative)</span>
+<div class="skill cv">
+  <span class="skill-name">Optimal Transport for Geometric & Generative Tasks</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 75%"></div>
   </div>
@@ -153,29 +153,26 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
 ## Engineering & Tools
 
-<div class="skill">
+<div class="skill eng">
   <span class="skill-name">Python, Docker, Git, Linux</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 90%"></div>
   </div>
 </div>
 
-<div class="skill">
-  <span class="skill-name">CUDA, HPC, Distributed Learning</span>
+<div class="skill eng">
+  <span class="skill-name">CUDA, HPC & Distributed Learning (NVFlare)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 70%"></div>
   </div>
 </div>
 
-<div class="skill">
+<div class="skill eng">
   <span class="skill-name">ROS & 3D Data Pipelines</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 65%"></div>
   </div>
 </div>
-
-
----
 
 # 📬 Contact
 
