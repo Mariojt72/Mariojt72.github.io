@@ -17,12 +17,13 @@ My research interests include **deep learning, computer vision, and multimodal l
 # 🚀 Featured Projects
 
 ### 🐟 [GLORiA – Multimodal Fish Classification](https://github.com/Tech4DLab/GLORIA)
-Deep learning + CLIP + domain priors for species and origin classification *(wild vs farmed vs escaped)*.
+**GLORiA** is a project that develops a **multimodal deep learning framework** for the classification of fish species and their origin *(wild, farmed, or escaped)*. The system combines **visual information** with **textual domain knowledge** through **vision–language models** such as **CLIP**, enabling robust and interpretable predictions in challenging real-world scenarios.
 
 ---
 
 ### 🍎 [Tech4Diet – Explainable 3D Human Body Modeling](https://github.com/Tech4DLab)
-Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric estimation.
+**Tech4Diet** is a project that develops a system to measure the physical **evolution** of the **human body** during specific treatments by leveraging state-of-the-art **computer vision** technologies. The system uses **3D images** captured **over time**, thereby incorporating a **fourth dimension**. The result is a precise analysis that is highly valuable for both weight-loss treatments and muscle development programs.
+
 
 
 ---
