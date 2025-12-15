@@ -3,28 +3,37 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
 
 <body>
 
-<div class="sidebar">
+<aside class="sidebar">
 
-  <img src="/assets/profile.jpg" class="profile-pic">
+  <img src="{{ "/assets/profile.jpg" | relative_url }}"
+       alt="Profile photo of Mario Jerez"
+       class="profile-pic">
 
-  <h2 class="name">Mario Jerez</h2>
+  <h1 class="name">Mario Jerez</h1>
+
   <p class="role">
     Deep Learning Researcher<br>
-    PhD Candidate in AI
+    PhD Candidate in Artificial Intelligence
   </p>
 
-  <nav class="nav-links">
-    <a href="/">🏠 Home</a>
+  <nav class="nav-links" aria-label="Main navigation">
+
+    <a href="{{ "/" | relative_url }}">
+      <span class="emoji">🏠</span>
+      Home
+    </a>
 
     <a href="https://github.com/mariojt72"
        target="_blank" rel="noopener">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg"
-           alt="GitHub"
+           alt=""
            class="icon">
       GitHub
     </a>
@@ -32,7 +41,7 @@
     <a href="https://scholar.google.com/citations?user=TU_ID"
        target="_blank" rel="noopener">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Google_Scholar_logo.svg"
-           alt="Google Scholar"
+           alt=""
            class="icon">
       Google Scholar
     </a>
@@ -40,7 +49,7 @@
     <a href="https://orcid.org/TU_ORCID"
        target="_blank" rel="noopener">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"
-           alt="ORCID"
+           alt=""
            class="icon">
       ORCID
     </a>
@@ -48,26 +57,29 @@
     <a href="https://linkedin.com/in/mariojerez-ua"
        target="_blank" rel="noopener">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
-           alt="LinkedIn"
+           alt=""
            class="icon">
       LinkedIn
     </a>
 
-    <a href="/CV_MarioJerez.pdf">
-      📄 CV
+    <a href="{{ "/CV_MarioJerez.pdf" | relative_url }}">
+      <span class="emoji">📄</span>
+      CV
     </a>
+
   </nav>
 
   <footer class="footer">
     © {{ site.time | date: '%Y' }} Mario Jerez
   </footer>
 
-</div>
+</aside>
 
-<div class="content">
+<main class="content">
   {{ content }}
-</div>
+</main>
 
 </body>
 </html>
+
 
