@@ -156,26 +156,24 @@ body {
 
 /* GLORiA IMAGES -------------------------------------------------- */
 .gloria-images {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 16px;
   margin-top: 1rem;
   margin-bottom: 1.5rem;
+  align-items: start;
 }
 
 .gloria-images img {
   width: 100%;
-  max-width: 50%;
+  height: auto;
   border-radius: 6px;
 }
 
 /* Responsive: stack on small screens */
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .gloria-images {
-    flex-direction: column;
-  }
-
-  .gloria-images img {
-    max-width: 100%;
+    grid-template-columns: 1fr;
   }
 }
 
