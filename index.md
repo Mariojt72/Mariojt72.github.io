@@ -227,11 +227,3 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
   </li>
 </ul>
 
----
-
-# 📬 Contact
-
-📧 **mario.jerez@ua.es**  
-🎧 **Discord:** mario_j_t  
----
-
