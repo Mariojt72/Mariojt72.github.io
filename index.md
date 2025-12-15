@@ -212,28 +212,26 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
 <ul class="languages">
   <li>
-    <img src="https://flagcdn.com/w20/es.png" alt="ES">
+    <img src="https://flagcdn.com/w20/es.png" alt="Spanish flag">
     Spanish — Native (C2)
   </li>
   <li>
-    <img src="https://flagcdn.com/w20/gb.png" alt="EN">
+    <img src="https://flagcdn.com/w20/gb.png" alt="UK flag">
     English — Advanced (C1)
   </li>
   <li>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_the_Valencian_Community.svg](https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_Land_of_Valencia_%28official%29.svg"
-       alt="Valencian Community flag"
-       width="20">
-  Valencian — Advanced (C1)
-</li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_Land_of_Valencia_%28official%29.svg"
+         alt="Valencian Community flag"
+         width="20">
+    Valencian — Advanced (C1)
+  </li>
 </ul>
-
-
 
 ---
 
 # 📬 Contact
 
 📧 **mario.jerez@ua.es**  
-🔗 **Discord:** mario_j_t  
+🎧 **Discord:** mario_j_t  
 ---
 
