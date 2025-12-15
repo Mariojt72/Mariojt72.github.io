@@ -177,15 +177,33 @@ body {
   }
 }
 
+.gloria-figure {
+  margin: 2rem 0;
+}
+
+.gloria-figure figcaption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.6rem;
+}
+
+
 /* PROJECT VIDEO ------------------------------------------------- */
-.project-video {
-  margin: 1.5rem 0 2rem 0;
+.project-video-figure {
+  margin: 2rem 0;
+}
+
+.project-video-figure figcaption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.6rem;
 }
 
 .project-video video {
-  width: 100%;
-  max-width: 1200px;
-  border-radius: 8px;
-  display: block;
+  max-width: 100%;
+  border-radius: 6px;
 }
+
 
