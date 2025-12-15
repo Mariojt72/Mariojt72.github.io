@@ -220,7 +220,7 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
     English — Advanced (C1)
   </li>
   <li>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_the_Valencian_Community.svg"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_the_Valencian_Community.svg](https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_Land_of_Valencia_%28official%29.svg"
        alt="Valencian Community flag"
        width="20">
   Valencian — Advanced (C1)
