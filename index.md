@@ -210,9 +210,12 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
 ## Languages
 
-- 🇪🇸 Spanish — Native (C2)
-- 🇬🇧 English — Advanced (C1)
-- 🇪🇸 Valencian — Advanced (C1)
+<ul>
+  <li>🇪🇸 Spanish — Native (C2)</li>
+  <li>🇬🇧 English — Advanced (C1)</li>
+  <li>Valencian — Advanced (C1)</li>
+</ul>
+
 
 ---
 
