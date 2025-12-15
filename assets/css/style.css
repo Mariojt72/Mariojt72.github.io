@@ -238,4 +238,17 @@ figure figcaption {
   font-size: 14.5px;
 }
 
+.projects-container {
+  margin-top: 28px;
+}
+
+.projects-container h2 {
+  margin-top: 32px;
+}
+
+.projects-container h2:first-child {
+  margin-top: 0;
+}
+
+
 
