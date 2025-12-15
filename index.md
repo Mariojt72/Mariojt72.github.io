@@ -19,7 +19,7 @@ Deep learning + CLIP + domain priors for species and origin classification *(wil
 
 ---
 
-### 🧍‍♂️ [Tech4Diet – Explainable 3D Human Body Modeling](https://github.com/Tech4DLab)
+### 🍎 [Tech4Diet – Explainable 3D Human Body Modeling](https://github.com/Tech4DLab)
 Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric estimation.
 
 
@@ -46,7 +46,7 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
   <div style="margin-left: 1rem; margin-top: 0.5rem;">
 
     <p>
-      <strong>🧍‍♂️Disentangled Latent Spaces for 3D Human Bodies with CVAEs and OT</strong><br>
+      <strong>🍎 Disentangled Latent Spaces for 3D Human Bodies with CVAEs and OT</strong><br>
       <em>Conference presentation: International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2025)</em><br>
       Speaker: Mario Jerez-Tallón
     </p>
@@ -72,7 +72,7 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
   <div style="margin-left: 1rem; margin-top: 0.5rem;">
 
     <p>
-      <strong>🧍‍♂️ 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models</strong><br>
+      <strong>🍎 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models</strong><br>
       <em>Proceedings of the International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2024)</em><br>
       DOI: <a href="https://doi.org/10.1007/978-3-031-77571-0_30">10.1007/978-3-031-77571-0_30</a><br>
       Authors: Juan Muelledes, Nahuel García D'urso et al.
@@ -86,7 +86,7 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
     </p>
 
     <p>
-      <strong>🧍‍♂️ A Deep Learning Analysis of 3D Body Shapes and Clinical Data for Understanding Dietetic Interventions</strong><br>
+      <strong>🍎 A Deep Learning Analysis of 3D Body Shapes and Clinical Data for Understanding Dietetic Interventions</strong><br>
       <em>Research and Innovation Forum 2024 (RIIFORUM 2024)</em><br>
       DOI: <a href="https://doi.org/10.1007/978-3-031-78623-5_41">10.1007/978-3-031-77571-0_30</a><br>
       Authors: Nahuel García-D'urso, Jorge Azorín-López et al.
