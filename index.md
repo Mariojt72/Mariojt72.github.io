@@ -6,17 +6,13 @@ title: "Portfolio – Mario Jerez"
 <div class="about-header">
   <h1>🧠 About Me</h1>
   <p class="about-tagline">
-    PhD Researcher in Artificial Intelligence · Computer Vision · Multimodal Learning
+    I am a **PhD researcher in Artificial Intelligence** at the [University of Alicante](https://www.ua.es/en/index.html), supervised by **Dr. [Nahuel García D'Urso](https://cvnet.cpd.ua.es/curriculum-breve/es/garcia-d-urso-nahuel-emiliano/108306)** and co-supervised by **Prof. [Andres Fuster Guillo](https://cvnet.cpd.ua.es/curriculum-breve/en/fuster-guillo-andres/10095)** and **Prof. [Jorge Azorin Lopez](https://cvnet.cpd.ua.es/curriculum-breve/en/azorin-lopez-jorge/9826)**.
+
+    I hold an **MSc in Artificial Intelligence** and a **BSc in Robotics Engineering** from the University of Alicante.
+    
+    My research focuses on **deep learning, computer vision, and multimodal learning**, with a particular interest in **Optimal Transport** for **explainable and generative models**, applied to **biomedical and environmental domains**.
   </p>
 </div>
-
-# 🧠 About Me
-
-I am a **PhD researcher in Artificial Intelligence** at the [University of Alicante](https://www.ua.es/en/index.html), supervised by **Dr. [Nahuel García D'Urso](https://cvnet.cpd.ua.es/curriculum-breve/es/garcia-d-urso-nahuel-emiliano/108306)** and co-supervised by **Prof. [Andres Fuster Guillo](https://cvnet.cpd.ua.es/curriculum-breve/en/fuster-guillo-andres/10095)** and **Prof. [Jorge Azorin Lopez](https://cvnet.cpd.ua.es/curriculum-breve/en/azorin-lopez-jorge/9826)**.
-
-I hold an **MSc in Artificial Intelligence** and a **BSc in Robotics Engineering** from the University of Alicante.
-
-My research focuses on **deep learning, computer vision, and multimodal learning**, with a particular interest in **Optimal Transport** for **explainable and generative models**, applied to **biomedical and environmental domains**.
 
 ---
 
@@ -140,6 +136,7 @@ The system leverages **3D body reconstructions captured over time**, enabling **
 </details>
 
 ---
+
 # 🛠️ Skills
 
 ## Programming & Frameworks
