@@ -31,6 +31,11 @@ The system integrates **visual representations** with **textual domain knowledge
        alt="Grad-ECLIP visual explanation for GLORiA">
 </div>
 
+<p class="image-caption">
+  <strong>Figure:</strong> Overview of the GLORiA multimodal framework and Grad-ECLIP explainability results.
+</p>
+
+
 ---
 
 ### 🍎 [Tech4Diet – Explainable 3D Human Body Modeling](https://github.com/Tech4DLab)
@@ -41,12 +46,18 @@ The system leverages **3D body reconstructions captured over time**, enabling **
 - interpretable analysis of morphological changes,
 - and predictive insights for **weight-loss and muscle development programs**.
 
-<div class="project-video">
-  <video controls preload="metadata">
-    <source src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/Tech4D.mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<figure class="project-video-figure">
+  <div class="project-video">
+    <video controls preload="metadata">
+      <source src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/Tech4D.mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <figcaption>
+    <strong>Figure 2.</strong> Temporal 3D reconstruction and analysis of human body evolution in the Tech4Diet system.
+  </figcaption>
+</figure>
+
 
 ---
 
