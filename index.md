@@ -318,22 +318,32 @@ title: "Portfolio – Mario Jerez"
 </div>
 
 
-## 🌍 Languages
+<div class="about-header section-languages">
+  <h1>🌍 Languages</h1>
+  <p class="about-tagline">
+    Spoken languages and proficiency levels.
+  </p>
 
-<ul class="languages">
-  <li>
-    <img src="https://flagcdn.com/w20/es.png" alt="Spanish flag">
-    Spanish — Native 
-  </li>
-  <li>
-    <img src="https://flagcdn.com/w20/gb.png" alt="UK flag">
-    English — Advanced (C1)
-  </li>
-  <li>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_Land_of_Valencia_%28official%29.svg"
-         alt="Valencian Community flag"
-         width="20">
-    Valencian — Advanced (C1)
-  </li>
-</ul>
+  <div class="languages-card">
+    <ul class="languages-list">
+      <li>
+        <img src="https://flagcdn.com/w20/es.png" alt="Spanish flag">
+        <strong>Spanish</strong> — Native
+      </li>
+
+      <li>
+        <img src="https://flagcdn.com/w20/gb.png" alt="UK flag">
+        <strong>English</strong> — Advanced (C1)
+      </li>
+
+      <li>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_the_Land_of_Valencia_%28official%29.svg"
+             alt="Valencian Community flag"
+             width="20">
+        <strong>Valencian</strong> — Advanced (C1)
+      </li>
+    </ul>
+  </div>
+</div>
+
 
