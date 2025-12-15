@@ -3,6 +3,13 @@ layout: default
 title: "Portfolio – Mario Jerez"
 ---
 
+<div class="about-header">
+  <h1>🧠 About Me</h1>
+  <p class="about-tagline">
+    PhD Researcher in Artificial Intelligence · Computer Vision · Multimodal Learning
+  </p>
+</div>
+
 # 🧠 About Me
 
 I am a **PhD researcher in Artificial Intelligence** at the [University of Alicante](https://www.ua.es/en/index.html), supervised by **Dr. [Nahuel García D'Urso](https://cvnet.cpd.ua.es/curriculum-breve/es/garcia-d-urso-nahuel-emiliano/108306)** and co-supervised by **Prof. [Andres Fuster Guillo](https://cvnet.cpd.ua.es/curriculum-breve/en/fuster-guillo-andres/10095)** and **Prof. [Jorge Azorin Lopez](https://cvnet.cpd.ua.es/curriculum-breve/en/azorin-lopez-jorge/9826)**.
@@ -55,7 +62,7 @@ The system leverages **3D body reconstructions captured over time**, enabling **
     </video>
   </div>
   <figcaption>
-  <strong>Figure 2.</strong> AI-generated animated overview of the Tech4Diet project, illustrating the pipeline integrating ChatGPT and Midjourney.
+  <strong>Figure 2.</strong> AI-generated animated overview of the Tech4Diet project.
 </figcaption>
 
 
