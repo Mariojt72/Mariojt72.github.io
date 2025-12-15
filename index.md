@@ -46,7 +46,14 @@ title: "Portfolio – Mario Jerez"
 
 ---
 
-# 🚀 Featured Projects
+<div class="section-header">
+  <h1>🚀 Featured Projects</h1>
+  <p class="section-tagline">
+    Research projects focused on multimodal learning, explainable AI, and generative models applied to real-world problems.
+  </p>
+</div>
+
+---
 
 ### 🐟 [GLORiA – Multimodal Fish Classification](https://github.com/Tech4DLab/GLORIA)
 
@@ -69,13 +76,13 @@ The system integrates **visual representations** with **textual domain knowledge
   </figcaption>
 </figure>
 
-
 ---
 
 ### 🍎 [Tech4Diet – Explainable 3D Human Body Modeling](https://github.com/Tech4DLab)
-**Tech4Diet** is a project that develops a system to measure the physical **evolution** of the **human body** during specific treatments by leveraging state-of-the-art **computer vision** technologies. The system uses **3D images** captured **over time**, thereby incorporating a **fourth dimension**. The result is a precise analysis that is highly valuable for both weight-loss treatments and muscle development programs. The last project actualization focused on the **analysis and prediction of human body evolution** during dietary or physical treatments.
 
-The system leverages **3D body reconstructions captured over time**, enabling **4D modeling** of shape changes. By combining computer vision and machine learning techniques, Tech4Diet provides:
+**Tech4Diet** is a research project focused on the **analysis and prediction of human body evolution** during dietary or physical treatments using state-of-the-art **computer vision** techniques.
+
+The system leverages **3D body reconstructions captured over time**, enabling **4D modeling** of shape changes. By combining computer vision and machine learning, Tech4Diet provides:
 - precise quantification of body shape evolution,
 - interpretable analysis of morphological changes,
 - and predictive insights for **weight-loss and muscle development programs**.
@@ -88,9 +95,9 @@ The system leverages **3D body reconstructions captured over time**, enabling **
     </video>
   </div>
   <figcaption>
-  <strong>Figure 2.</strong> AI-generated animated overview of the Tech4Diet project.
-</figcaption>
-
+    <strong>Figure 2.</strong> AI-generated animated overview of the Tech4Diet project.
+  </figcaption>
+</figure>
 
 ---
 
