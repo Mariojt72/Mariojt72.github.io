@@ -74,21 +74,21 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
     <p>
       <strong>🧍‍♂️ 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models</strong><br>
       <em>Proceedings of the International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2024)</em><br>
-      DOI: <a href="https://doi.org/10.1007/978-3-031-77571-0_30">10.1007/978-3-031-77571-0_30</a>
+      DOI: <a href="https://doi.org/10.1007/978-3-031-77571-0_30">10.1007/978-3-031-77571-0_30</a><br>
       Authors: Juan Muelledes, Nahuel García D'urso et al.
     </p>
 
     <p>
       <strong>🐟 Automatic Identification of Fish Species and Their Farmed or Wild Origin</strong><br>
       <em>Proceedings of the International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2024)</em><br>
-      DOI: <a href="https://doi.org/10.1007/978-3-031-77571-0_75">10.1007/978-3-031-77571-0_75</a>
+      DOI: <a href="https://doi.org/10.1007/978-3-031-77571-0_75">10.1007/978-3-031-77571-0_75</a><br>
       Authors: Mario Jerez-Tallón, Nahuel García-D'urso  et al.
     </p>
 
     <p>
       <strong>🧍‍♂️ A Deep Learning Analysis of 3D Body Shapes and Clinical Data for Understanding Dietetic Interventions</strong><br>
       <em>Research and Innovation Forum 2024 (RIIFORUM 2024)</em><br>
-      DOI: <a href="https://doi.org/10.1007/978-3-031-78623-5_41">10.1007/978-3-031-77571-0_30</a>
+      DOI: <a href="https://doi.org/10.1007/978-3-031-78623-5_41">10.1007/978-3-031-77571-0_30</a><br>
       Authors: Nahuel García-D'urso, Jorge Azorín-López et al.
     </p>
 
