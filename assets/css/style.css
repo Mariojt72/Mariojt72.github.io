@@ -177,4 +177,15 @@ body {
   }
 }
 
+/* PROJECT VIDEO ------------------------------------------------- */
+.project-video {
+  margin: 1.5rem 0 2rem 0;
+}
+
+.project-video video {
+  width: 100%;
+  max-width: 1200px;
+  border-radius: 8px;
+  display: block;
+}
 
