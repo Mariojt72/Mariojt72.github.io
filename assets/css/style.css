@@ -33,16 +33,16 @@ body {
 }
 
 .nav-links a {
-  display: flex;
+  display: inline-flex;       
   align-items: center;
-  gap: 0.6rem;
+  gap: 0.45em;
+  font-size: 15px;
 }
 
 .nav-links .icon {
-  width: 16px;
-  height: 16px;
-  max-width: 16px;
-  max-height: 16px;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;    
   border-radius: 0 !important;
   background: none !important;
   display: inline-block;
