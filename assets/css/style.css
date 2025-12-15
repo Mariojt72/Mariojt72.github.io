@@ -302,10 +302,12 @@ figure figcaption {
 
 .project-card {
   padding: 24px;
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.75);
   border-radius: 10px;
   border-left: 4px solid rgba(16, 185, 129, 0.35);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.03);
 }
+
 
 .project-card h2 {
   margin-top: 0;
