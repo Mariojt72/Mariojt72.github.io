@@ -24,48 +24,61 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
 
 ---
-
-# 📄 Publications
-
-## Publications by Year
+<h1>📄 Publications</h1>
+<h2>Publications by Year</h2>
 
 <details open>
-<summary><strong>2026</strong></summary>
+  <summary><strong>2026</strong></summary>
+  <div style="margin-left: 1rem; margin-top: 0.5rem;">
 
-### 📘 Comparative Study of Deep Learning Approaches for Fish Origin Classification  
-*Book chapter*  
-DOI: 10.1007/978-3-032-02725-2_6  
-Authors: Mario Jerez-Tallón et al.
+    <p>
+      <strong>📘 Comparative Study of Deep Learning Approaches for Fish Origin Classification</strong><br>
+      <em>Book chapter</em><br>
+      DOI: <a href="https://doi.org/10.1007/978-3-032-02725-2_6">10.1007/978-3-032-02725-2_6</a><br>
+      Authors: Mario Jerez-Tallón et al.
+    </p>
 
+  </div>
 </details>
 
 <details>
-<summary><strong>2025</strong></summary>
+  <summary><strong>2025</strong></summary>
+  <div style="margin-left: 1rem; margin-top: 0.5rem;">
 
-### 🦈 Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge  
-*Journal Article (MAKE)*  
-DOI: 10.3390/make7040146  
-Authors: Ismael Beviá-Ballesteros; Mario Jerez-Tallón et al.
+    <p>
+      <strong>🦈 Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge</strong><br>
+      <em>Journal Article (MAKE)</em><br>
+      DOI: <a href="https://doi.org/10.3390/make7040146">10.3390/make7040146</a><br>
+      Authors: Ismael Beviá-Ballesteros; Mario Jerez-Tallón et al.
+    </p>
 
-### 🐟 Deep Learning Approaches for Wild vs Farmed Fish Classification  
-*Conference: SARTECO 2025*  
-Author: Mario Jerez-Tallón  
+    <p>
+      <strong>🐟 Deep Learning Approaches for Wild vs Farmed Fish Classification</strong><br>
+      <em>Conference: SARTECO 2025</em><br>
+      Author: Mario Jerez-Tallón
+    </p>
 
+  </div>
 </details>
 
 <details>
-<summary><strong>2024</strong></summary>
+  <summary><strong>2024</strong></summary>
+  <div style="margin-left: 1rem; margin-top: 0.5rem;">
 
-### 🧍‍♂️ 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models  
-*Book chapter*  
-DOI: 10.1007/978-3-031-77571-0_30  
+    <p>
+      <strong>🧍‍♂️ 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models</strong><br>
+      <em>Book chapter</em><br>
+      DOI: <a href="https://doi.org/10.1007/978-3-031-77571-0_30">10.1007/978-3-031-77571-0_30</a>
+    </p>
 
-### 🐠 Automatic Identification of Fish Species and Their Farmed or Wild Origin  
-*Book chapter*  
-DOI: 10.1007/978-3-031-77571-0_75  
+    <p>
+      <strong>🐠 Automatic Identification of Fish Species and Their Farmed or Wild Origin</strong><br>
+      <em>Book chapter</em><br>
+      DOI: <a href="https://doi.org/10.1007/978-3-031-77571-0_75">10.1007/978-3-031-77571-0_75</a>
+    </p>
 
+  </div>
 </details>
-
 
 ---
 
