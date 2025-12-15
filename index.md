@@ -221,117 +221,102 @@ title: "Portfolio – Mario Jerez"
   </div>
 </div>
 
-# 🛠️ Skills
+<div class="about-header section-skills">
+  <h1>🛠️ Skills</h1>
+  <p class="about-tagline">
+    Technical skills in programming, machine learning, and system deployment.
+  </p>
 
-## Programming & Frameworks
+  <div class="skills-list">
 
-<div class="skill eng">
-  <span class="skill-name">Python</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 90%"></div>
+    <!-- ================= PROGRAMMING ================= -->
+    <div class="skills-card">
+      <h2>💻 Programming & Frameworks</h2>
+
+      <div class="skill eng">
+        <span class="skill-name">Python</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 90%"></div></div>
+      </div>
+
+      <div class="skill eng">
+        <span class="skill-name">Deep Learning Frameworks (PyTorch, TensorFlow / Keras)</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 85%"></div></div>
+      </div>
+
+      <div class="skill eng">
+        <span class="skill-name">C / C++ / C#</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 70%"></div></div>
+      </div>
+
+      <div class="skill eng">
+        <span class="skill-name">ROS & Robotics Software</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 65%"></div></div>
+      </div>
+
+      <div class="skill eng">
+        <span class="skill-name">MATLAB</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 60%"></div></div>
+      </div>
+    </div>
+
+    <!-- ================= ML ================= -->
+    <div class="skills-card">
+      <h2>🧠 Machine Learning & Models</h2>
+
+      <div class="skill ai">
+        <span class="skill-name">Deep Learning Architectures (CNNs, Transformers)</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 85%"></div></div>
+      </div>
+
+      <div class="skill ai">
+        <span class="skill-name">Foundation & Vision-Language Models (CLIP, VLMs)</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 75%"></div></div>
+      </div>
+
+      <div class="skill ai">
+        <span class="skill-name">Generative Models (VAE, CVAE, Diffusion)</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 75%"></div></div>
+      </div>
+
+      <div class="skill ai">
+        <span class="skill-name">Optimal Transport (Sinkhorn, OT-Regularized Models)</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 85%"></div></div>
+      </div>
+
+      <div class="skill ai">
+        <span class="skill-name">Explainable AI (XAI)</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 80%"></div></div>
+      </div>
+    </div>
+
+    <!-- ================= MLOPS ================= -->
+    <div class="skills-card">
+      <h2>⚙️ MLOps & Systems</h2>
+
+      <div class="skill cv">
+        <span class="skill-name">Docker & Containerized Deployment</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 65%"></div></div>
+      </div>
+
+      <div class="skill cv">
+        <span class="skill-name">Cloud & Distributed Training (Azure, NVFlare)</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 55%"></div></div>
+      </div>
+
+      <div class="skill cv">
+        <span class="skill-name">CUDA & GPU Acceleration</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 65%"></div></div>
+      </div>
+
+      <div class="skill cv">
+        <span class="skill-name">Git & Version Control</span>
+        <div class="skill-bar"><div class="skill-level" style="width: 85%"></div></div>
+      </div>
+    </div>
+
   </div>
 </div>
 
-<div class="skill eng">
-  <span class="skill-name">Deep Learning Frameworks (PyTorch, TensorFlow / Keras)</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 85%"></div>
-  </div>
-</div>
-
-<div class="skill eng">
-  <span class="skill-name">C / C++ / C#</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 70%"></div>
-  </div>
-</div>
-
-<div class="skill eng">
-  <span class="skill-name">ROS & Robotics Software</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 65%"></div>
-  </div>
-</div>
-
-<div class="skill eng">
-  <span class="skill-name">MATLAB</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 60%"></div>
-  </div>
-</div>
-
----
-
-## Machine Learning & Models
-
-<div class="skill ai">
-  <span class="skill-name">Deep Learning Architectures (CNNs, Transformers)</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 85%"></div>
-  </div>
-</div>
-
-<div class="skill ai">
-  <span class="skill-name">Foundation & Vision-Language Models (CLIP, VLMs)</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 75%"></div>
-  </div>
-</div>
-
-<div class="skill ai">
-  <span class="skill-name">Generative Models (VAE, CVAE, Diffusion)</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 75%"></div>
-  </div>
-</div>
-
-<div class="skill ai">
-  <span class="skill-name">Optimal Transport (Sinkhorn, OT-Regularized Models)</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 85%"></div>
-  </div>
-</div>
-
-<div class="skill ai">
-  <span class="skill-name">Explainable AI (XAI)</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 80%"></div>
-  </div>
-</div>
-
----
-
-## MLOps & Systems
-
-<div class="skill cv">
-  <span class="skill-name">Docker & Containerized Deployment</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 65%"></div>
-  </div>
-</div>
-
-<div class="skill cv">
-  <span class="skill-name">Cloud & Distributed Training (Azure, NVFlare)</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 55%"></div>
-  </div>
-</div>
-
-<div class="skill cv">
-  <span class="skill-name">CUDA & GPU Acceleration</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 65%"></div>
-  </div>
-</div>
-
-<div class="skill cv">
-  <span class="skill-name">Git & Version Control</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 85%"></div>
-  </div>
-</div>
-
----
 
 ## 🌍 Languages
 
