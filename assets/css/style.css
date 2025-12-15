@@ -348,6 +348,44 @@ figure figcaption {
   font-size: 1.2rem;
 }
 
+/* LANGUAGES ---------------------------------------------------- */
+
+.about-header.section-languages {
+  background: linear-gradient(135deg, #f9fafb, #f1f5f9);
+  border-left-color: #0ea5e9; /* azul técnico */
+}
+
+.languages-card {
+  margin-top: 24px;
+  padding: 20px 24px;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 10px;
+  border-left: 4px solid rgba(14, 165, 233, 0.35);
+}
+
+.languages-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.languages-list li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 15px;
+  margin-bottom: 12px;
+  color: #1f2937;
+}
+
+.languages-list li:last-child {
+  margin-bottom: 0;
+}
+
+.languages-list img {
+  border-radius: 3px;
+}
+
 
 
 
