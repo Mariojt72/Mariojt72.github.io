@@ -19,23 +19,20 @@ My research interests include **deep learning, computer vision, and multimodal l
 ### 🐟 [GLORiA – Multimodal Fish Classification](https://github.com/Tech4DLab/GLORIA)
 **GLORiA** is a project that develops a **multimodal deep learning framework** for the classification of fish species and their origin *(wild, farmed, or escaped)*. The system combines **visual information** with **textual domain knowledge** through **vision–language models** such as **CLIP**, enabling robust and interpretable predictions in challenging real-world scenarios.
 
-<div style="margin-top: 1rem; margin-bottom: 1.5rem;">
-  <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github.png"
-       alt="GLORiA multimodal pipeline and explainability framework"
-       style="width: 100%; max-width: 900px; display: block; margin: 0 auto;">
-  
+<div class="gloria-images">
   <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github2.png"
-       alt="GLORiA multimodal pipeline and explainability framework"
-       style="width: 100%; max-width: 900px; display: block;">
+       alt="GLORiA multimodal pipeline and explainability framework">
+  <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github.png"
+       alt="Grad-ECLIP visual explanation for GLORiA">
 </div>
+
 ---
 
 ### 🍎 [Tech4Diet – Explainable 3D Human Body Modeling](https://github.com/Tech4DLab)
 **Tech4Diet** is a project that develops a system to measure the physical **evolution** of the **human body** during specific treatments by leveraging state-of-the-art **computer vision** technologies. The system uses **3D images** captured **over time**, thereby incorporating a **fourth dimension**. The result is a precise analysis that is highly valuable for both weight-loss treatments and muscle development programs.
 
-
-
 ---
+
 <h1>📄 Publications</h1>
 <h2>Publications by Year</h2>
 
@@ -217,6 +214,8 @@ My research interests include **deep learning, computer vision, and multimodal l
     <div class="skill-level" style="width: 85%"></div>
   </div>
 </div>
+
+---
 
 ## Languages
 
