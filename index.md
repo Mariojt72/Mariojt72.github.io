@@ -101,38 +101,40 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
 # 🛠️ Skills
 
+# 🛠️ Skills
+
 ## Programming & Frameworks
 
-<div class="skill ai">
+<div class="skill eng">
+  <span class="skill-name">Python</span>
+  <div class="skill-bar">
+    <div class="skill-level" style="width: 90%"></div>
+  </div>
+</div>
+
+<div class="skill eng">
   <span class="skill-name">PyTorch</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 85%"></div>
   </div>
 </div>
 
-<div class="skill ai">
-  <span class="skill-name">TensorFlow</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 85%"></div>
-  </div>
-</div>
-
-<div class="skill ai">
-  <span class="skill-name">Python</span>
+<div class="skill eng">
+  <span class="skill-name">TensorFlow / Keras</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 80%"></div>
   </div>
 </div>
 
-<div class="skill ai">
-  <span class="skill-name">C++/C#</span>
+<div class="skill eng">
+  <span class="skill-name">C++ / C#</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 70%"></div>
   </div>
 </div>
 
-<div class="skill ai">
-  <span class="skill-name">ROS</span>
+<div class="skill eng">
+  <span class="skill-name">ROS (Robot Operating System)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 65%"></div>
   </div>
@@ -140,31 +142,31 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
 
 ---
 
-## Machile Learning & Models
+## Machine Learning & Models
 
-<div class="skill cv">
-  <span class="skill-name">Deep Learning (CNN, Transformers...) </span>
+<div class="skill ai">
+  <span class="skill-name">Deep Learning (CNNs, Transformers)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 85%"></div>
   </div>
 </div>
 
-<div class="skill cv">
-  <span class="skill-name">Large Language & Vision-Language Models (CLIP, VLMs...)</span>
+<div class="skill ai">
+  <span class="skill-name">Vision-Language & LLMs (CLIP, VLMs)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 75%"></div>
   </div>
 </div>
 
-<div class="skill cv">
-  <span class="skill-name">Generative Models (VAE, CVAE, Diffusion...)</span>
+<div class="skill ai">
+  <span class="skill-name">Generative Models (VAE, CVAE, Diffusion)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 70%"></div>
   </div>
 </div>
 
 <div class="skill ai">
-  <span class="skill-name">Optimal Transport (OT, Sinkhorn, OT-Regularized Models...)</span>
+  <span class="skill-name">Optimal Transport (Sinkhorn, OT-Regularized Models)</span>
   <div class="skill-bar">
     <div class="skill-level" style="width: 80%"></div>
   </div>
@@ -195,30 +197,6 @@ Generative models *(CVAE, VAE-OT)*, 3D mesh reconstruction, and anthropometric e
   </div>
 </div>
 
----
-
-## Computer Vision & 3D
-
-<div class="skill cv">
-  <span class="skill-name">Image Classification & Explainability</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 85%"></div>
-  </div>
-</div>
-
-<div class="skill cv">
-  <span class="skill-name">3D Mesh Processing & Human Body Modeling (SMPL / STAR)</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 90%"></div>
-  </div>
-</div>
-
-<div class="skill cv">
-  <span class="skill-name">3D Reconstruction & Temporal Analysis (4D)</span>
-  <div class="skill-bar">
-    <div class="skill-level" style="width: 85%"></div>
-  </div>
-</div>
 
 ---
 
