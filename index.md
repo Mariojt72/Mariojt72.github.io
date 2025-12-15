@@ -24,16 +24,17 @@ The system integrates **visual representations** with **textual domain knowledge
 - zero-shot and few-shot reasoning,
 - and **interpretable predictions** through visual explanations.
 
-<div class="gloria-images">
-  <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github2.png"
-       alt="GLORiA multimodal pipeline and explainability framework">
-  <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github.png"
-       alt="Grad-ECLIP visual explanation for GLORiA">
-</div>
-
-<p class="image-caption">
-  <strong>Figure:</strong> Overview of the GLORiA multimodal framework and Grad-ECLIP explainability results.
-</p>
+<figure class="gloria-figure">
+  <div class="gloria-images">
+    <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github2.png"
+         alt="GLORiA multimodal pipeline and explainability framework">
+    <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github.png"
+         alt="Grad-ECLIP visual explanation for GLORiA">
+  </div>
+  <figcaption>
+    <strong>Figure 1.</strong> Overview of the GLORiA multimodal framework and Grad-ECLIP visual explanation mechanism for fish origin classification.
+  </figcaption>
+</figure>
 
 
 ---
@@ -54,9 +55,8 @@ The system leverages **3D body reconstructions captured over time**, enabling **
     </video>
   </div>
   <figcaption>
-    <strong>Figure 2.</strong> Temporal 3D reconstruction and analysis of human body evolution in the Tech4Diet system.
-  </figcaption>
-</figure>
+  <strong>Figure 2.</strong> AI-generated animated overview of the Tech4Diet project, illustrating the pipeline integrating ChatGPT and Midjourney.
+</figcaption>
 
 
 ---
