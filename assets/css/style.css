@@ -199,7 +199,8 @@ figure figcaption {
 /* Base (estructura común) */
 .about-header {
   background: linear-gradient(135deg, #f9fafb, #eef2ff);
-  border-left: 5px solid;
+  border-left-width: 5px;
+  border-left-style: solid;
   padding: 20px 24px;
   border-radius: 10px;
   margin-bottom: 24px;
@@ -228,7 +229,7 @@ figure figcaption {
 
 /* 🧠 ABOUT ME (índigo) */
 .about-header.about-main {
-  border-left-color: #639ef1;
+  border-left-color: #6366f1;
 }
 
 /* 🚀 FEATURED PROJECTS (verde) */
@@ -246,7 +247,6 @@ figure figcaption {
 }
 
 /* 📄 PUBLICATIONS (morado) */
-
 .about-header.section-publications {
   background: linear-gradient(135deg, #faf5ff, #f3e8ff);
   border-left-color: #7c3aed;
@@ -259,132 +259,6 @@ figure figcaption {
   border-radius: 8px;
 }
 
-.section-publications .publications-container {
-  border-left: 3px solid rgba(124, 58, 237, 0.3);
-}
-
-.publications-container details {
-  margin-bottom: 18px;
-}
-
-.publications-container summary {
-  cursor: pointer;
-  font-size: 1rem;
-  color: #1f2937;
-}
-
-.pub-year {
-  margin-top: 12px;
-  margin-left: 1rem;
-}
-
-.pub-item {
-  margin-bottom: 14px;
-  line-height: 1.6;
-  font-size: 14.5px;
-}
-
-.pub-item a {
-  color: #4f46e5;
-  text-decoration: none;
-}
-
-.pub-item a:hover {
-  text-decoration: underline;
-}
-
-.projects-list {
-  margin-top: 24px;
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-}
-
-.project-card {
-  padding: 24px;
-  background: rgba(255, 255, 255, 0.75);
-  border-radius: 10px;
-  border-left: 4px solid rgba(16, 185, 129, 0.35);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.03);
-}
-
-
-.project-card h2 {
-  margin-top: 0;
-}
-
-.project-card a {
-  color: #065f46;
-  text-decoration: none;
-}
-
-.project-card a:hover {
-  text-decoration: underline;
-}
-
-/* SKILLS ------------------------------------------------------- */
-
-.about-header.section-skills {
-  background: linear-gradient(135deg, #f9fafb, #f1f5f9);
-  border-left-color: #0ea5e9; /* azul técnico */
-}
-
-.skills-list {
-  margin-top: 24px;
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-}
-
-.skills-card {
-  padding: 24px;
-  background: rgba(255, 255, 255, 0.7);
-  border-radius: 10px;
-  border-left: 4px solid rgba(14, 165, 233, 0.35);
-}
-
-.skills-card h2 {
-  margin-top: 0;
-  font-size: 1.2rem;
-}
-
-/* LANGUAGES ---------------------------------------------------- */
-
-.about-header.section-languages {
-  background: linear-gradient(135deg, #fdf6ec, #fff7ed);
-  border-left-color: #f59e0b; /* naranja elegante */
-}
-
-.languages-card {
-  margin-top: 24px;
-  padding: 20px 24px;
-  background: rgba(255, 255, 255, 0.75);
-  border-radius: 10px;
-  border-left: 4px solid rgba(245, 158, 11, 0.35);
-}
-
-.languages-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.languages-list li {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  font-size: 15px;
-  margin-bottom: 12px;
-  color: #1f2937;
-}
-
-.languages-list li:last-child {
-  margin-bottom: 0;
-}
-
-.languages-list img {
-  border-radius: 3px;
-}
 
 
 
