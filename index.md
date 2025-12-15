@@ -245,7 +245,7 @@ The system leverages **3D body reconstructions captured over time**, enabling **
 
 ---
 
-## Languages
+## 🌍 Languages
 
 <ul class="languages">
   <li>
