@@ -122,78 +122,100 @@ title: "Portfolio – Mario Jerez"
   </div>
 </div>
 
-<h1>📄 Publications</h1>
-<h2>Publications by Year</h2>
+<div class="about-header section-secondary publications-section">
+  <h1>📄 Publications</h1>
+  <p class="about-tagline">
+    Peer-reviewed journal articles and conference contributions, organized by year.
+  </p>
 
-<details open>
-  <summary><strong>2026</strong></summary>
-  <div style="margin-left: 1rem; margin-top: 0.5rem;">
+  <div class="publications-container">
 
-    <p>
-      <strong>🐟 Comparative Study of Deep Learning Approaches for Fish Origin Classification</strong><br>
-      <em>Advances in Computational Intelligence (International Work-Conference on Artificial Neural Networks 2025 (IWANN 2025))</em><br>
-      DOI: <a href="https://doi.org/10.1007/978-3-032-02725-2_6">10.1007/978-3-032-02725-2_6</a><br>
-      Authors: Mario Jerez-Tallón, Ismael Beviá Ballesteros et al.
-    </p>
+    <details open>
+      <summary><strong>2026</strong></summary>
+      <div class="pub-year">
+
+        <p class="pub-item">
+          <strong>🐟 Comparative Study of Deep Learning Approaches for Fish Origin Classification</strong><br>
+          <em>Advances in Computational Intelligence (IWANN 2025)</em><br>
+          DOI:
+          <a href="https://doi.org/10.1007/978-3-032-02725-2_6" target="_blank" rel="noopener">
+            10.1007/978-3-032-02725-2_6
+          </a><br>
+          Authors: <strong>Mario Jerez-Tallón</strong>, Ismael Beviá Ballesteros et al.
+        </p>
+
+      </div>
+    </details>
+
+    <details>
+      <summary><strong>2025</strong></summary>
+      <div class="pub-year">
+
+        <p class="pub-item">
+          <strong>🍎 Disentangled Latent Spaces for 3D Human Bodies with CVAEs and OT</strong><br>
+          <em>Conference presentation: UCAmI 2025</em><br>
+          Speaker: <strong>Mario Jerez-Tallón</strong>
+        </p>
+
+        <p class="pub-item">
+          <strong>🦈 Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge</strong><br>
+          <em>Machine Learning and Knowledge Extraction (MAKE)</em><br>
+          DOI:
+          <a href="https://doi.org/10.3390/make7040146" target="_blank" rel="noopener">
+            10.3390/make7040146
+          </a><br>
+          Authors: Ismael Beviá-Ballesteros, <strong>Mario Jerez-Tallón</strong> et al.
+        </p>
+
+        <p class="pub-item">
+          <strong>🐟 Deep Learning Approaches for Wild vs Farmed Fish Classification</strong><br>
+          <em>Conference presentation: SARTECO 2025</em><br>
+          Speaker: <strong>Mario Jerez-Tallón</strong>
+        </p>
+
+      </div>
+    </details>
+
+    <details>
+      <summary><strong>2024</strong></summary>
+      <div class="pub-year">
+
+        <p class="pub-item">
+          <strong>🍎 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models</strong><br>
+          <em>Proceedings of UCAmI 2024</em><br>
+          DOI:
+          <a href="https://doi.org/10.1007/978-3-031-77571-0_30" target="_blank" rel="noopener">
+            10.1007/978-3-031-77571-0_30
+          </a><br>
+          Authors: Juan Muelledes, Nahuel García-D'Urso et al.
+        </p>
+
+        <p class="pub-item">
+          <strong>🐟 Automatic Identification of Fish Species and Their Farmed or Wild Origin</strong><br>
+          <em>Proceedings of UCAmI 2024</em><br>
+          DOI:
+          <a href="https://doi.org/10.1007/978-3-031-77571-0_75" target="_blank" rel="noopener">
+            10.1007/978-3-031-77571-0_75
+          </a><br>
+          Authors: <strong>Mario Jerez-Tallón</strong>, Nahuel García-D'Urso et al.
+        </p>
+
+        <p class="pub-item">
+          <strong>🍎 A Deep Learning Analysis of 3D Body Shapes and Clinical Data for Understanding Dietetic Interventions</strong><br>
+          <em>Research and Innovation Forum (RIIFORUM 2024)</em><br>
+          DOI:
+          <a href="https://doi.org/10.1007/978-3-031-78623-5_41" target="_blank" rel="noopener">
+            10.1007/978-3-031-78623-5_41
+          </a><br>
+          Authors: Nahuel García-D'Urso, Jorge Azorín-López et al.
+        </p>
+
+      </div>
+    </details>
 
   </div>
-</details>
+</div>
 
-<details>
-  <summary><strong>2025</strong></summary>
-  <div style="margin-left: 1rem; margin-top: 0.5rem;">
-
-    <p>
-      <strong>🍎 Disentangled Latent Spaces for 3D Human Bodies with CVAEs and OT</strong><br>
-      <em>Conference presentation: International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2025)</em><br>
-      Speaker: Mario Jerez-Tallón
-    </p>
-
-    <p>
-      <strong>🦈 Zero-Shot Elasmobranch Classification Informed by Domain Prior Knowledge</strong><br>
-      <em>Machine Learning and Knowledge Extraction (Journal Article (MAKE))</em><br>
-      DOI: <a href="https://doi.org/10.3390/make7040146">10.3390/make7040146</a><br>
-      Authors: Ismael Beviá-Ballesteros; Mario Jerez-Tallón et al.
-    </p>
-
-    <p>
-      <strong>🐟 Deep Learning Approaches for Wild vs Farmed Fish Classification</strong><br>
-      <em>Conference presentation: Sociedad de ARquitecturas y TEcnología de los COmputadores (SARTECO 2025)</em><br>
-      Speaker: Mario Jerez-Tallón
-    </p>
-
-  </div>
-</details>
-
-<details>
-  <summary><strong>2024</strong></summary>
-  <div style="margin-left: 1rem; margin-top: 0.5rem;">
-
-    <p>
-      <strong>🍎 3D Reconstruction of the Human Body from Partial Scans Using Parametric Models</strong><br>
-      <em>Proceedings of the International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2024)</em><br>
-      DOI: <a href="https://doi.org/10.1007/978-3-031-77571-0_30">10.1007/978-3-031-77571-0_30</a><br>
-      Authors: Juan Muelledes, Nahuel García D'urso et al.
-    </p>
-
-    <p>
-      <strong>🐟 Automatic Identification of Fish Species and Their Farmed or Wild Origin</strong><br>
-      <em>Proceedings of the International Conference on Ubiquitous Computing and Ambient Intelligence (UCAmI 2024)</em><br>
-      DOI: <a href="https://doi.org/10.1007/978-3-031-77571-0_75">10.1007/978-3-031-77571-0_75</a><br>
-      Authors: Mario Jerez-Tallón, Nahuel García-D'urso  et al.
-    </p>
-
-    <p>
-      <strong>🍎 A Deep Learning Analysis of 3D Body Shapes and Clinical Data for Understanding Dietetic Interventions</strong><br>
-      <em>Research and Innovation Forum 2024 (RIIFORUM 2024)</em><br>
-      DOI: <a href="https://doi.org/10.1007/978-3-031-78623-5_41">10.1007/978-3-031-77571-0_30</a><br>
-      Authors: Nahuel García-D'urso, Jorge Azorín-López et al.
-    </p>
-
-  </div>
-</details>
-
----
 
 # 🛠️ Skills
 
