@@ -33,16 +33,20 @@ body {
 }
 
 .nav-links a {
-  display: block;
-  margin: 10px 0;
-  text-decoration: none;
-  color: #dce3ff;
-  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
 }
 
-.nav-links a:hover {
-  color: #ffffff;
-  text-decoration: underline;
+.nav-links .icon {
+  width: 16px;
+  height: 16px;
+  max-width: 16px;
+  max-height: 16px;
+  border-radius: 0 !important;
+  background: none !important;
+  display: inline-block;
+  flex-shrink: 0;
 }
 
 .footer {
