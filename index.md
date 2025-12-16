@@ -132,12 +132,12 @@ title: "Portfolio – Mario Jerez"
     <!-- ================= E-LASMOBRANC CARD ================= -->
     <div class="project-card">
 
-      <h2>🍎 <a href="https://github.com/Tech4DLab/e-Lasmobranc-project" target="_blank" rel="noopener">
+      <h2>🦈 <a href="https://github.com/Tech4DLab/e-Lasmobranc-project" target="_blank" rel="noopener">
         E-Lasmobranc – Explainable 3D Human Body Modeling
       </a></h2>
 
       <p>
-      <strong>e-Lasmobranc</strong> is a research initiative dedicated to the
+      <strong>E-Lasmobranc</strong> is a research initiative dedicated to the
       <strong>study and conservation of elasmobranchs</strong> (sharks and rays)
       along the <strong>Alicante and Murcia coastlines</strong>.
       The project aims to <strong>improve the understanding of these species</strong>
