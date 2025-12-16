@@ -129,6 +129,42 @@ title: "Portfolio – Mario Jerez"
 
     </div>
 
+    <!-- ================= E-LASMOBRANC CARD ================= -->
+    <div class="project-card">
+
+      <h2>🍎 <a href="https://github.com/Tech4DLab/e-Lasmobranc-project" target="_blank" rel="noopener">
+        E-Lasmobranc – Explainable 3D Human Body Modeling
+      </a></h2>
+
+      <p>
+      <strong>e-Lasmobranc</strong> is a research initiative dedicated to the
+      <strong>study and conservation of elasmobranchs</strong> (sharks and rays)
+      along the <strong>Alicante and Murcia coastlines</strong>.
+      The project aims to <strong>improve the understanding of these species</strong>
+      and to <strong>support the creation of new protected marine areas</strong>
+      through data-driven tools.
+    </p>
+    
+    <ul>
+      <li>Development of an automatic species identification system from photographs,</li>
+      <li>Robust recognition of species, even in extremely rare or underrepresented cases,</li>
+      <li>Combination of state-of-the-art AI models (such as CLIP) with expert biological knowledge,</li>
+      <li>Guided identification based on key morphological traits to ensure reliable and interpretable results.</li>
+    </ul>
+
+    <figure class="elasmo-figure">
+        <div class="gloria-images">
+          <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github4.png"
+               alt="GLORiA multimodal pipeline and explainability framework">
+          <img src="https://raw.githubusercontent.com/Mariojt72/Mariojt72.github.io/main/assets/github5.png"
+               alt="Grad-ECLIP visual explanation for GLORiA">
+        </div>
+        <figcaption>
+          <strong>Figure 1.</strong> Overview of the GLORiA multimodal framework and Grad-ECLIP visual explanation mechanism.
+        </figcaption>
+    </figure>
+    </div>
+
   </div>
 </div>
 
