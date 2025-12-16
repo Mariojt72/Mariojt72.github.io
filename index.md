@@ -46,6 +46,7 @@ title: "Portfolio – Mario Jerez"
 <div class="about-header section-projects">
   <h1>🚀 Featured Projects</h1>
   <p class="about-tagline">
+  Projects I have worked on or collaborated on in peer-reviewed scientific publications
   </p>
 
   <div class="projects-list">
@@ -70,9 +71,9 @@ title: "Portfolio – Mario Jerez"
       </p>
 
       <ul>
-        <li>robust classification under distribution shifts,</li>
-        <li>zero-shot and few-shot reasoning,</li>
-        <li>interpretable predictions through visual explanations.</li>
+        <li>Robust classification under distribution shifts,</li>
+        <li>Zero-shot and few-shot reasoning,</li>
+        <li>Interpretable predictions through visual explanations.</li>
       </ul>
 
       <figure class="gloria-figure">
@@ -97,16 +98,22 @@ title: "Portfolio – Mario Jerez"
       </a></h2>
 
       <p>
-        <strong>Tech4Diet</strong> is a research project focused on the
-        <strong>analysis and prediction of human body evolution</strong> during dietary
-        or physical treatments using state-of-the-art <strong>computer vision</strong> techniques.
-      </p>
-
-      <ul>
-        <li>precise quantification of body shape evolution,</li>
-        <li>interpretable analysis of morphological changes,</li>
-        <li>predictive insights for weight-loss and muscle development programs.</li>
-      </ul>
+      <strong>Tech4Diet</strong> is a research project whose main goal is to
+      <strong>support patients during their dietary and physical treatments</strong>,
+      helping them to <strong>improve adherence and motivation</strong> through
+      advanced technological tools.
+      The project relies on a dedicated <strong>RGB-D camera cabin</strong>,
+      from which accurate <strong>3D human body models</strong> are reconstructed,
+      together with <strong>expert medical assessments</strong> that provide
+      additional clinical and anthropometric data.
+    </p>
+    
+    <ul>
+      <li>Accurate 3D reconstruction and quantification of body shape evolution,</li>
+      <li>Interpretable analysis of morphological and health-related changes,</li>
+      <li>Integration of expert medical data to enrich patient monitoring,</li>
+      <li>Visual tools to assist patients throughout their treatment.</li>
+    </ul>
 
       <figure class="project-video-figure">
         <div class="project-video">
