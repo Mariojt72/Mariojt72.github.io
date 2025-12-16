@@ -39,15 +39,13 @@ title: "Portfolio – Mario Jerez"
   <p class="about-tagline">
     My research focuses on <strong>deep learning, computer vision, and multimodal learning</strong>,
     with a particular interest in <strong>Optimal Transport</strong> for
-    <strong>explainable and generative models</strong>, applied to
-    <strong>biomedical and environmental domains</strong>.
+    <strong>explainable and generative models</strong>.
   </p>
 </div>
 
 <div class="about-header section-projects">
   <h1>🚀 Featured Projects</h1>
   <p class="about-tagline">
-    Research projects focused on multimodal learning, explainable AI, and generative models applied to real-world problems.
   </p>
 
   <div class="projects-list">
