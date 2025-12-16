@@ -285,12 +285,12 @@ figure figcaption {
   text-decoration: underline;
 }
 
-/* 🧠 ABOUT ME (índigo) */
+/* ABOUT ME (índigo) */
 .about-header.about-main {
   border-left-color: #6366f1;
 }
 
-/* 🚀 FEATURED PROJECTS (verde) */
+/* FEATURED PROJECTS (verde) */
 .about-header.section-projects {
   background: linear-gradient(135deg, #f9fafb, #ecfdf5);
   border-left-color: #10b981;
@@ -304,7 +304,7 @@ figure figcaption {
   font-size: 14.5px;
 }
 
-/* 📄 PUBLICATIONS (morado) */
+/* PUBLICATIONS (morado) */
 .about-header.section-publications {
   background: linear-gradient(135deg, #faf5ff, #f3e8ff);
   border-left-color: #7c3aed;
