@@ -160,7 +160,7 @@ title: "Portfolio – Mario Jerez"
                alt="Grad-ECLIP visual explanation for GLORiA">
         </div>
         <figcaption>
-          <strong>Figure 1.</strong> Overview of the GLORiA multimodal framework and Grad-ECLIP visual explanation mechanism.
+          <strong>Figure 3.</strong> Overview of the e-Lasmobranc framework, combining CLIP-based multimodal representations with expert biological knowledge to enable reliable and explainable elasmobranch species identification.
         </figcaption>
     </figure>
     </div>
